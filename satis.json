@@ -1,0 +1,17 @@
+{
+  "name": "gavlbx9zsc",
+  "homepage": "https://gavlbx9zsc.github.io/composer",
+  "include-filename": "all.json",
+  "repositories": [
+    {
+      "packagist.org": false
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/aligent/magento-async-events.git"
+    }
+  ],
+  "require-all": true,
+  "require-dependencies": true,
+  "require-dev-dependencies": true
+}

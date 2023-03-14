@@ -1,0 +1,23 @@
+{
+  "name": "gavlbx9zsc/composer",
+  "description": "Satis server instance code",
+  "license": ["proprietary"],
+  "require": {
+    "composer/satis": "dev-main"
+  }
+  ,
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  },
+  "authors": [
+    {
+      "name": "gavlbx9zsc",
+      "email": "gavlbx9zsc@proton.me"
+    }
+  ],
+  "config": {
+    "allow-plugins": {
+      "composer/satis": true
+    }
+  }
+}
