@@ -8,6 +8,10 @@
       "url": "https://github.com/gavlbX9zsC/magento-module-extension-amasty-admin-log.git"
     },
     {
+      "type": "vcs",
+      "url": "https://github.com/gavlbX9zsC/qeebex-magento-modules-list.git"
+    },
+    {
       "type": "composer",
       "url": "https://mirror.mage-os.org/"
     },
