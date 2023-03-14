@@ -4,6 +4,10 @@
   "include-filename": "all.json",
   "repositories": [
     {
+      "type": "vcs",
+      "url": "https://github.com/gavlbX9zsC/magento-module-extension-amasty-admin-log.git"
+    },
+    {
       "type": "composer",
       "url": "https://mirror.mage-os.org/"
     },
