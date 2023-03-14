@@ -4,6 +4,10 @@
   "include-filename": "all.json",
   "repositories": [
     {
+      "type": "composer",
+      "url": "https://mirror.mage-os.org/"
+    },
+    {
       "type": "vcs",
       "url": "https://github.com/aligent/magento-async-events.git"
     }
