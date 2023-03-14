@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "all.json": {
+            "sha1": "8e3f27a710bbdd64d0bdc20bb76d850c4289ea31"
+        }
+    },
+    "metadata-url": "/composer/p2/%package%.json",
+    "available-packages": [
+        "aligent/async-events"
+    ]
+}
