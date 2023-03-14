@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "gavlbx9zsc/magento-modules-list": [
+            {
+                "name": "gavlbx9zsc/magento-modules-list",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gavlbX9zsC/qeebex-magento-modules-list.git",
+                    "reference": "main"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gavlbX9zsC/gavlbx9zsc-magento-modules-list/zipball/363061962e63a9419e7639cdcc5eec09f161f3ab",
+                    "reference": "363061962e63a9419e7639cdcc5eec09f161f3ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "gavlbx9zsc/magento-module-extension-amasty-admin-log": "*"
+                },
+                "time": "2023-03-14T18:36:05+00:00",
+                "default-branch": true,
+                "type": "metapackage",
+                "authors": [
+                    {
+                        "name": "gavlbX9zsC",
+                        "email": "gavlbX9zsC@proton.me"
+                    }
+                ],
+                "description": "Meta Package of all available modules to install",
+                "support": {
+                    "source": "https://github.com/gavlbX9zsC/gavlbx9zsc-magento-modules-list/tree/main",
+                    "issues": "https://github.com/gavlbX9zsC/gavlbx9zsc-magento-modules-list/issues"
+                }
+            }
+        ]
+    }
+}

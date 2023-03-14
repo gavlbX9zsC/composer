@@ -2,7 +2,7 @@
     "packages": [],
     "includes": {
         "all.json": {
-            "sha1": "bafc78fd7ec01a650c465ee214e304168291a08d"
+            "sha1": "c77c7be526bf5c4be2bca26c09c6b1baa19d12ac"
         }
     },
     "metadata-url": "/composer/p2/%package%.json",
@@ -18,6 +18,8 @@
         "dotmailer/dotmailer-magento2-extension-graph-ql",
         "dotmailer/dotmailer-magento2-extension-package",
         "dotmailer/dotmailer-magento2-extension-sms",
+        "gavlbx9zsc/magento-module-extension-amasty-admin-log",
+        "gavlbx9zsc/magento-modules-list",
         "klarna/m2-payments",
         "klarna/module-core",
         "klarna/module-kp",

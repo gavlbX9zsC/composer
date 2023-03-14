@@ -1,0 +1,48 @@
+{
+    "packages": {
+        "gavlbx9zsc/magento-module-extension-amasty-admin-log": [
+            {
+                "name": "gavlbx9zsc/magento-module-extension-amasty-admin-log",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/gavlbX9zsC/magento-module-extension-amasty-admin-log.git",
+                    "reference": "main"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gavlbX9zsC/magento-module-extension-amasty-admin-log/zipball/6bc2b1474129bef5487040e71e1f88c83d10be34",
+                    "reference": "6bc2b1474129bef5487040e71e1f88c83d10be34",
+                    "shasum": ""
+                },
+                "require": {
+                    "amasty/adminactionslog": "^2.0",
+                    "magento/framework": "*"
+                },
+                "require-dev": {
+                    "roave/security-advisories": "dev-latest"
+                },
+                "time": "2023-03-14T12:40:02+00:00",
+                "default-branch": true,
+                "type": "magento2-module",
+                "autoload": {
+                    "psr-4": {
+                        "Gavlbx9zsc\\MagentoModuleExtensionAmastyAdminLog\\": ""
+                    }
+                },
+                "authors": [
+                    {
+                        "name": "gavlbx9zsc",
+                        "email": "gavlbx9zsc@proton.me"
+                    }
+                ],
+                "description": "Magento 2 module extension for Amasty's Admin Log module in order to add ASYNC capabilities.",
+                "support": {
+                    "source": "https://github.com/gavlbX9zsC/magento-module-extension-amasty-admin-log/tree/main",
+                    "issues": "https://github.com/gavlbX9zsC/magento-module-extension-amasty-admin-log/issues"
+                }
+            }
+        ]
+    }
+}
