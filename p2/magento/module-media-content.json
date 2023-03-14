@@ -1,0 +1,126 @@
+{
+    "packages": {
+        "magento/module-media-content": [
+            {
+                "name": "magento/module-media-content",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-100.4.0.zip",
+                    "shasum": "b1ec145561b48d345282af2404d494328b5d9c8d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation for managing relations between content and media files used in that content"
+            },
+            {
+                "name": "magento/module-media-content",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-100.4.1.zip",
+                    "shasum": "d9101529e45121fd845b0a219d26449a067f7ca1"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation for managing relations between content and media files used in that content"
+            },
+            {
+                "name": "magento/module-media-content",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-100.4.2.zip",
+                    "shasum": "1a8112a37e505bdcb5599681783115f873d18b07"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation for managing relations between content and media files used in that content"
+            },
+            {
+                "name": "magento/module-media-content",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-100.4.3.zip",
+                    "shasum": "cd958b245a5c4474d70af5fbb0cb39fd081cc0d7"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation for managing relations between content and media files used in that content"
+            }
+        ]
+    }
+}

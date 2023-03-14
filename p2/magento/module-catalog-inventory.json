@@ -1,0 +1,294 @@
+{
+    "packages": {
+        "magento/module-catalog-inventory": [
+            {
+                "name": "magento/module-catalog-inventory",
+                "version": "100.3.7-p2",
+                "version_normalized": "100.3.7.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-inventory-100.3.7-p2.zip",
+                    "shasum": "cd2d47cdc02875454f103c610e900e689902e244"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": "magento/inventory-composer-metapackage"
+            },
+            {
+                "name": "magento/module-catalog-inventory",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-inventory-100.4.0.zip",
+                    "shasum": "bc36ca3433fba9b000cd26f8d3c7958b92ea196a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": "magento/inventory-composer-metapackage"
+            },
+            {
+                "name": "magento/module-catalog-inventory",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-inventory-100.4.1.zip",
+                    "shasum": "16b9a37918d2af7f2d8c89de7dbed88b15986693"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": "magento/inventory-composer-metapackage"
+            },
+            {
+                "name": "magento/module-catalog-inventory",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-inventory-100.4.2.zip",
+                    "shasum": "8b4df7d978ee7954c18db3af24959a436ccbe838"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": "magento/inventory-composer-metapackage"
+            },
+            {
+                "name": "magento/module-catalog-inventory",
+                "version": "100.4.2-p2",
+                "version_normalized": "100.4.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-inventory-100.4.2-p2.zip",
+                    "shasum": "12bd8cb0c4cbdbebeb172aa9163b4284c092e15a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": "magento/inventory-composer-metapackage"
+            },
+            {
+                "name": "magento/module-catalog-inventory",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-inventory-100.4.3.zip",
+                    "shasum": "2e72985d8df9e7d107d4cd8540ff6420a37da8e8"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": "magento/inventory-composer-metapackage"
+            },
+            {
+                "name": "magento/module-catalog-inventory",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-inventory-100.4.4.zip",
+                    "shasum": "7761f5faa2394526ab04eb39092eb43410f664be"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": "magento/inventory-composer-metapackage"
+            },
+            {
+                "name": "magento/module-catalog-inventory",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-inventory-100.4.5.zip",
+                    "shasum": "929b0e2f4b449a2bfbf4e81aba7334d718c03304"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogInventory\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": "magento/inventory-metapackage"
+            }
+        ]
+    }
+}

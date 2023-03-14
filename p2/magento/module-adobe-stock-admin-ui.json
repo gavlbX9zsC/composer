@@ -1,0 +1,392 @@
+{
+    "packages": {
+        "magento/module-adobe-stock-admin-ui": [
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.0.0.zip",
+                    "shasum": "09b0ed8bca6361cf5babf46ad5d2f06cf0f7a2aa"
+                },
+                "require": {
+                    "magento/framework": "~102.0.4",
+                    "magento/module-adobe-ims-api": "1.*.*",
+                    "magento/module-adobe-stock-client-api": "1.*.*",
+                    "magento/module-backend": "~101.0.4",
+                    "magento/module-config": "~101.1.4",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "~103.0.4"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.0.1.zip",
+                    "shasum": "28a9956e31f0776f6c6449561541168b1b90da23"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "1.0.*",
+                    "magento/module-adobe-stock-client-api": "1.0.*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.0.2.zip",
+                    "shasum": "e081b985614576a3eb6aa18ceececbe81b9dbb24"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "1.0.*",
+                    "magento/module-adobe-stock-client-api": "1.0.*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.0.2-p1",
+                "version_normalized": "1.0.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/magento-module-adobe-stock-admin-ui-1.0.2-p1.zip",
+                    "shasum": "48b749637aef623230ac1339ba98fbc1250cf347"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "1.0.2-p1",
+                    "magento/module-adobe-stock-client-api": "1.0.2-p1",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.1.0.zip",
+                    "shasum": "56b936903f20f7c10cd562da8d4a8e93f99ebb17"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "2.0.*",
+                    "magento/module-adobe-stock-client-api": "1.1.*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.2.0.zip",
+                    "shasum": "d61a7252f0798dfc717d08051949c29cc92ad23e"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "2.1.*",
+                    "magento/module-adobe-stock-client-api": "2.0.*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.3.0.zip",
+                    "shasum": "cdd77149c74879700f5e8c29da58911dfe18f785"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "*",
+                    "magento/module-adobe-stock-client-api": "2.1.0",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.3.0-p1",
+                "version_normalized": "1.3.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.3.0-p1.zip",
+                    "shasum": "b5afba6a88468f8b82767081eaf0621977220dc5"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "*",
+                    "magento/module-adobe-stock-client-api": "2.1.0-p1",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.4.0||~8.0.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.3.0-p2",
+                "version_normalized": "1.3.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.3.0-p2.zip",
+                    "shasum": "95c77e9aa97ea2f398032b76bae7aecd9ad61026"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "*",
+                    "magento/module-adobe-stock-client-api": "2.1.0-p2",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.3.1.zip",
+                    "shasum": "b399122df506af3d852e4e22e6c7c628a585dacf"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "2.1.*",
+                    "magento/module-adobe-stock-client-api": "2.1.*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            },
+            {
+                "name": "magento/module-adobe-stock-admin-ui",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-stock-admin-ui-1.3.2.zip",
+                    "shasum": "79076a16eee3ebbea8ef2011712d8cd0ad2d44cd"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-admin-adobe-ims": "*",
+                    "magento/module-adobe-ims-api": "*",
+                    "magento/module-adobe-stock-client-api": "2.1.*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-cms": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeStockAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the admin panel UI implementation"
+            }
+        ]
+    }
+}

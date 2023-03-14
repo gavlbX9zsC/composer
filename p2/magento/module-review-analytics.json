@@ -1,0 +1,126 @@
+{
+    "packages": {
+        "magento/module-review-analytics": [
+            {
+                "name": "magento/module-review-analytics",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-review-analytics-100.3.5.zip",
+                    "shasum": "1c3a3abfc89dc5774fd38136a6beb8b31a3a3a75"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-analytics": "100.3.*",
+                    "magento/module-review": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReviewAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-review-analytics",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-review-analytics-100.4.0.zip",
+                    "shasum": "5875bcebb70cf85538f260f3af74ca41a82f7960"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-review": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReviewAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-review-analytics",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-review-analytics-100.4.1.zip",
+                    "shasum": "398ee8af852dfca348028d8845c2ab16f40f3246"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-review": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReviewAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-review-analytics",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-review-analytics-100.4.2.zip",
+                    "shasum": "a206e598d7aa0aa89e422a0608cc1e00d900fba8"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-review": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReviewAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

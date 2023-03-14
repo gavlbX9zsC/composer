@@ -1,0 +1,267 @@
+{
+    "packages": {
+        "magento/module-inventory-reservations": [
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.0.7.zip",
+                    "shasum": "1b46e00837b03d5af13f6542796361b3e28e321b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.0.8.zip",
+                    "shasum": "a3e2a056608a09d13903c8202554017994deaaf1"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.0.9.zip",
+                    "shasum": "79fa40ceec0d2d68b2a5f61c4364ee071b523c5c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.1.0.zip",
+                    "shasum": "a84601e1140c141366ae40b17a25431259fbd04d"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.1.1.zip",
+                    "shasum": "ae30d2abd3b92b6db00bca94267dc1abeb23e383"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.2.0.zip",
+                    "shasum": "c5cfbf640e204c6ca08a0fdbe84e0c033807ef24"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.2.0-p1",
+                "version_normalized": "1.2.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.2.0-p1.zip",
+                    "shasum": "81c216742efd8a19b82c9b774649e2ae1c10b052"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.2.0-p1",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.2.0-p2",
+                "version_normalized": "1.2.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.2.0-p2.zip",
+                    "shasum": "1ca6bc8eb765eb8ee2de38c1f70f102f73672b96"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-reservations",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-reservations-1.2.1.zip",
+                    "shasum": "533e5b43896121e108ad84f011db62755a544f1a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-reservations-api": "1.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryReservations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "packages": {
+        "magento/module-media-content-catalog": [
+            {
+                "name": "magento/module-media-content-catalog",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-catalog-100.4.0.zip",
+                    "shasum": "bb46e59ef4686749eabcaaa9aa8f5921313f5450"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContent functionality for Magento_Catalog module"
+            },
+            {
+                "name": "magento/module-media-content-catalog",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-catalog-100.4.1.zip",
+                    "shasum": "f09100493b4c44628352094a30d333f870805e96"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContent functionality for Magento_Catalog module"
+            },
+            {
+                "name": "magento/module-media-content-catalog",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-catalog-100.4.2.zip",
+                    "shasum": "4e686bb9ddf24b80da3dc1bce8d81cbc9932e067"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContent functionality for Magento_Catalog module"
+            },
+            {
+                "name": "magento/module-media-content-catalog",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-catalog-100.4.3.zip",
+                    "shasum": "e2e528d870917a29eb18a886de1e2a2778ed979e"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentCatalog\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContent functionality for Magento_Catalog module"
+            }
+        ]
+    }
+}

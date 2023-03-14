@@ -1,0 +1,255 @@
+{
+    "packages": {
+        "magento/module-media-storage": [
+            {
+                "name": "magento/module-media-storage",
+                "version": "100.3.7-p2",
+                "version_normalized": "100.3.7.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-storage-100.3.7-p2.zip",
+                    "shasum": "9766cdd297f3d664623d165eb8ac0d825b3249da"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaStorage\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-media-storage",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-storage-100.4.0.zip",
+                    "shasum": "314e4501827e5174fe6bdb14f8d7a9e7343db1dd"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaStorage\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-media-storage",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-storage-100.4.1.zip",
+                    "shasum": "a0fe78c5b9209db4d99106f3929b01f6b24124a9"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaStorage\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-media-storage",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-storage-100.4.2.zip",
+                    "shasum": "82f74dcf5e640978a5d91d4080053df5bf753eb9"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaStorage\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-media-storage",
+                "version": "100.4.2-p1",
+                "version_normalized": "100.4.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-storage-100.4.2-p1.zip",
+                    "shasum": "71ec1c5c08369e8b00202a058d6761e7f38ecc0c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaStorage\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-media-storage",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-storage-100.4.3.zip",
+                    "shasum": "961d24f8d53e28bcd6b6d4a06cd14388b03ce363"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaStorage\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-media-storage",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-storage-100.4.4.zip",
+                    "shasum": "ae747aef667a6f0f79337114dca2588cee08f88b"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/module-asynchronous-operations": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaStorage\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

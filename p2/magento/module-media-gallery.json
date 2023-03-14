@@ -1,0 +1,247 @@
+{
+    "packages": {
+        "magento/module-media-gallery": [
+            {
+                "name": "magento/module-media-gallery",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-100.3.2.zip",
+                    "shasum": "e6c28283b771084aedc8935dea2875cc0d2294a9"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-media-gallery-api": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallery\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media handling"
+            },
+            {
+                "name": "magento/module-media-gallery",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-100.4.0.zip",
+                    "shasum": "f79ceaed43b29aaeaf91471060ef46b167f6e0bd"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallery\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media handling"
+            },
+            {
+                "name": "magento/module-media-gallery",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-100.4.1.zip",
+                    "shasum": "06dc959b718d6fb9d86ba47093652648a8d43831"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallery\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media handling"
+            },
+            {
+                "name": "magento/module-media-gallery",
+                "version": "100.4.1-p1",
+                "version_normalized": "100.4.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-100.4.1-p1.zip",
+                    "shasum": "d400631101bb66edff377f9a3cebb99998558077"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallery\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media handling"
+            },
+            {
+                "name": "magento/module-media-gallery",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-100.4.2.zip",
+                    "shasum": "54ceaa4f1483d352cf4f39ccf3eed2f911c528f2"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallery\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media handling"
+            },
+            {
+                "name": "magento/module-media-gallery",
+                "version": "100.4.2-p1",
+                "version_normalized": "100.4.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-100.4.2-p1.zip",
+                    "shasum": "e14bbde338814faffd875728c8a73e42e5231aae"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallery\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media handling"
+            },
+            {
+                "name": "magento/module-media-gallery",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-100.4.3.zip",
+                    "shasum": "31866951ee3d768c57402b36ace278f9c27a761c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallery\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media handling"
+            },
+            {
+                "name": "magento/module-media-gallery",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-100.4.4.zip",
+                    "shasum": "3ff81d01104b384b241fc76cfc694056135810df"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallery\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media handling"
+            }
+        ]
+    }
+}

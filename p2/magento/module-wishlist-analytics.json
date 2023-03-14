@@ -1,0 +1,156 @@
+{
+    "packages": {
+        "magento/module-wishlist-analytics": [
+            {
+                "name": "magento/module-wishlist-analytics",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-analytics-100.3.5.zip",
+                    "shasum": "68b8c64d479542319083fd8f305b76b0252aba0d"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-analytics": "100.3.*",
+                    "magento/module-wishlist": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-analytics",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-analytics-100.4.0.zip",
+                    "shasum": "d84bf1897f5a3a0af806b71c9f1a13294c24cc06"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-analytics",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-analytics-100.4.1.zip",
+                    "shasum": "1bf57fa19b01bebd267d790ae66a33b7ad318513"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-analytics",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-analytics-100.4.2.zip",
+                    "shasum": "04db98b5b4936d027e410bc890da738b9947e8d0"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-analytics",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-analytics-100.4.3.zip",
+                    "shasum": "9df55fb0da28a5cf930ec2fbdef0f9ee75b3d605"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

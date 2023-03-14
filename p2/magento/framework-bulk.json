@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "magento/framework-bulk": [
+            {
+                "name": "magento/framework-bulk",
+                "version": "100.3.6",
+                "version_normalized": "100.3.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-bulk-100.3.6.zip",
+                    "shasum": "db6c3a9a5a4b2144b4953ef0a58153e17d9d5fd5"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\Bulk\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-bulk",
+                "version": "101.0.0",
+                "version_normalized": "101.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-bulk-101.0.0.zip",
+                    "shasum": "e2b31596ab1827f4bd139a0c814982165dee74bd"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\Bulk\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework-bulk",
+                "version": "101.0.1",
+                "version_normalized": "101.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-bulk-101.0.1.zip",
+                    "shasum": "4e6a3177284a732fd8fb30ff49e27e914b1e59d6"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\Bulk\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

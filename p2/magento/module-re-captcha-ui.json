@@ -1,0 +1,142 @@
+{
+    "packages": {
+        "magento/module-re-captcha-ui": [
+            {
+                "name": "magento/module-re-captcha-ui",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-ui-1.0.0.zip",
+                    "shasum": "51920ea88ee554ae5020a4e066bcdfc14cd2d415"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-re-captcha-validation-api": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    }
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-ui",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-ui-1.1.0.zip",
+                    "shasum": "b05c3d9e6596577011fc66edf577f8da3461cf6d"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-re-captcha-validation-api": "1.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    }
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-ui",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-ui-1.1.1.zip",
+                    "shasum": "65bca370e8f7696ca8c0367e47cdfc14ac52bb32"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-re-captcha-validation-api": "1.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    }
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-ui",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-ui-1.1.2.zip",
+                    "shasum": "f191b36d2f085a05da2c4059120a388606d23eab"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-re-captcha-validation-api": "1.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "email": "riccardo.tempesta@magespecialist.it",
+                        "name": "Riccardo Tempesta"
+                    }
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            }
+        ]
+    }
+}

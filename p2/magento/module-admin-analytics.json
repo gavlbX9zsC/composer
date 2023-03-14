@@ -1,0 +1,235 @@
+{
+    "packages": {
+        "magento/module-admin-analytics": [
+            {
+                "name": "magento/module-admin-analytics",
+                "version": "100.3.3-p2",
+                "version_normalized": "100.3.3.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-admin-analytics-100.3.3-p2.zip",
+                    "shasum": "70b77bed88d3e5fb8fa9810a48e4884e4b2ee8d5"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-release-notification": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdminAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-admin-analytics",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-admin-analytics-100.4.0.zip",
+                    "shasum": "966f3ead412790c2d9b3c73599c16dcebd9803d3"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-release-notification": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdminAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-admin-analytics",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-admin-analytics-100.4.1.zip",
+                    "shasum": "0c56191d35916983e4ae32f4c10d39e416f6b872"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-release-notification": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdminAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-admin-analytics",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-admin-analytics-100.4.2.zip",
+                    "shasum": "c699541f286693e4b5fa427be33e4fca210134ac"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-release-notification": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdminAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-admin-analytics",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-admin-analytics-100.4.3.zip",
+                    "shasum": "cebf58ae664f3642ca21bf7a9eebb20d8ae363fa"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-release-notification": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdminAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-admin-analytics",
+                "version": "100.4.3-p1",
+                "version_normalized": "100.4.3.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-admin-analytics-100.4.3-p1.zip",
+                    "shasum": "8886b79f5a0e460ac8a12ceff7383619cff067a1"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-release-notification": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdminAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-admin-analytics",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-admin-analytics-100.4.4.zip",
+                    "shasum": "87e71582ba1a656b02ba92c13e4bc129544e4b65"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-release-notification": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdminAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

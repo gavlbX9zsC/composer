@@ -1,0 +1,99 @@
+{
+    "packages": {
+        "magento/module-msrp-sample-data": [
+            {
+                "name": "magento/module-msrp-sample-data",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-msrp-sample-data-100.3.5.zip",
+                    "shasum": "f38b54852b24eb1988d696e9ba61ad89dfb3e903"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-msrp": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MsrpSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-msrp-sample-data",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-msrp-sample-data-100.4.0.zip",
+                    "shasum": "e17aaf4af027a5f300735972780925084a062eec"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-msrp": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MsrpSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-msrp-sample-data",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-msrp-sample-data-100.4.1.zip",
+                    "shasum": "39b9b663af3869e3489c23964c70e01a8ae5003c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-msrp": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MsrpSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

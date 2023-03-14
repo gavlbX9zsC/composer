@@ -1,0 +1,76 @@
+{
+    "packages": {
+        "magento/module-re-captcha-checkout-sales-rule": [
+            {
+                "name": "magento/module-re-captcha-checkout-sales-rule",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-checkout-sales-rule-1.1.0.zip",
+                    "shasum": "fe558259764d08fad33ae64b8f449dfecd7f4597"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-re-captcha-admin-ui": "1.1.*",
+                    "magento/module-re-captcha-frontend-ui": "1.1.*",
+                    "magento/module-re-captcha-ui": "1.1.*",
+                    "magento/module-re-captcha-validation-api": "1.1.*",
+                    "magento/module-re-captcha-webapi-api": "1.0.*",
+                    "magento/module-re-captcha-webapi-ui": "1.0.*",
+                    "magento/module-sales-rule": "*",
+                    "php": "~7.4.0||~8.0.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaCheckoutSalesRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google ReCaptcha integration for Magento2 coupons"
+            },
+            {
+                "name": "magento/module-re-captcha-checkout-sales-rule",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-checkout-sales-rule-1.1.1.zip",
+                    "shasum": "d7d87a3a19608e5646b3853bca998cb314489259"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-re-captcha-admin-ui": "1.1.*",
+                    "magento/module-re-captcha-frontend-ui": "1.1.*",
+                    "magento/module-re-captcha-ui": "1.1.*",
+                    "magento/module-re-captcha-validation-api": "1.1.*",
+                    "magento/module-re-captcha-webapi-api": "1.0.*",
+                    "magento/module-re-captcha-webapi-ui": "1.0.*",
+                    "magento/module-sales-rule": "*",
+                    "php": "~7.4.0||~8.0.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaCheckoutSalesRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google ReCaptcha integration for Magento2 coupons"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "packages": {
+        "temando/module-shipping": [
+            {
+                "name": "temando/module-shipping",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/temando-module-shipping-2.0.0.0.zip",
+                    "shasum": "78974a6f6a2bfb214e96882562111d35163971b1"
+                },
+                "require": {
+                    "temando/module-shipping-remover": "1.0.0"
+                },
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Temando multi-carrier shipping extension for Magento 2",
+                "abandoned": true
+            }
+        ]
+    }
+}

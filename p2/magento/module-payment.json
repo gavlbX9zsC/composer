@@ -1,0 +1,320 @@
+{
+    "packages": {
+        "magento/module-payment": [
+            {
+                "name": "magento/module-payment",
+                "version": "100.3.7",
+                "version_normalized": "100.3.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.3.7.zip",
+                    "shasum": "02815e40eb0f0f05a8517e6e898b7101b4f7bfd0"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-payment",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.4.0.zip",
+                    "shasum": "424a6495f59afb991fa9133bd8698b87ca71b230"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-payment",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.4.1.zip",
+                    "shasum": "d113c504dcd96be7a5211994d4141bdac24dc055"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-payment",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.4.2.zip",
+                    "shasum": "e96e686bdf5754ceb4f23ca4a9a1f1156db65183"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-payment",
+                "version": "100.4.2-p1",
+                "version_normalized": "100.4.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.4.2-p1.zip",
+                    "shasum": "fed50ba22162effd02634adaad29754714d15a43"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-payment",
+                "version": "100.4.2-p2",
+                "version_normalized": "100.4.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.4.2-p2.zip",
+                    "shasum": "be78ee987521dff1279a46d491c612f11795de91"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-payment",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.4.3.zip",
+                    "shasum": "3600fc87b60d0ccbb4a973777fe81bdf8fc50b38"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-payment",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.4.4.zip",
+                    "shasum": "61402da36b7d636dc86812971c05a832e6f7fa6d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-payment",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-100.4.5.zip",
+                    "shasum": "ae99c3e42f13f872f8046f906a7470b242d8cd27"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Payment\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

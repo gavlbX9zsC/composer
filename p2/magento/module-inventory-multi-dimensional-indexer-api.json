@@ -1,0 +1,202 @@
+{
+    "packages": {
+        "magento/module-inventory-multi-dimensional-indexer-api": [
+            {
+                "name": "magento/module-inventory-multi-dimensional-indexer-api",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-multi-dimensional-indexer-api-1.0.7.zip",
+                    "shasum": "fd847c3c67265656b08b9efb508f8aa52ddc13e9"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryMultiDimensionalIndexerApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-multi-dimensional-indexer-api",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-multi-dimensional-indexer-api-1.0.8.zip",
+                    "shasum": "993bdd8f1671e13ce2bb6d4dd0b0bb8ad297894a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryMultiDimensionalIndexerApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-multi-dimensional-indexer-api",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-multi-dimensional-indexer-api-1.1.0.zip",
+                    "shasum": "46f837e5132ec1c7a1fda2bc345d59491b87209d"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryMultiDimensionalIndexerApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-multi-dimensional-indexer-api",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-multi-dimensional-indexer-api-1.2.0.zip",
+                    "shasum": "74c1249bfe7eb22144e4b1f9ba71380e22f6fa32"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryMultiDimensionalIndexerApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-multi-dimensional-indexer-api",
+                "version": "1.2.0-p1",
+                "version_normalized": "1.2.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-multi-dimensional-indexer-api-1.2.0-p1.zip",
+                    "shasum": "d8f310eb9ea030b38ad789b7269ee48c9a7d5331"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryMultiDimensionalIndexerApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-multi-dimensional-indexer-api",
+                "version": "1.2.0-p2",
+                "version_normalized": "1.2.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-multi-dimensional-indexer-api-1.2.0-p2.zip",
+                    "shasum": "9126a7702fe8476a96d9f773f4bdc0aaf0558e40"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryMultiDimensionalIndexerApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-multi-dimensional-indexer-api",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-multi-dimensional-indexer-api-1.2.1.zip",
+                    "shasum": "542245c6e9f7d76ee91da742956f871925a55d08"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryMultiDimensionalIndexerApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

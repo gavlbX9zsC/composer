@@ -1,0 +1,150 @@
+{
+    "packages": {
+        "magento/module-media-gallery-synchronization-api": [
+            {
+                "name": "magento/module-media-gallery-synchronization-api",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-synchronization-api-1.0.0.zip",
+                    "shasum": "e1a76276b1b3090930e4b1681ccc0ba0a2a44314"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallerySynchronizationApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery synchronization implementation API"
+            },
+            {
+                "name": "magento/module-media-gallery-synchronization-api",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-synchronization-api-100.4.0.zip",
+                    "shasum": "44f7d905e68949bb939a2ed8c1e791b1c5bba227"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallerySynchronizationApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery synchronization implementation API"
+            },
+            {
+                "name": "magento/module-media-gallery-synchronization-api",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-synchronization-api-100.4.1.zip",
+                    "shasum": "72fca14d461e47a966a44ad5b47ba019d0db08a2"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallerySynchronizationApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery synchronization implementation API"
+            },
+            {
+                "name": "magento/module-media-gallery-synchronization-api",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-synchronization-api-100.4.2.zip",
+                    "shasum": "36b8005b6f215254f4cffb220a15f4eb26921485"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallerySynchronizationApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery synchronization implementation API"
+            },
+            {
+                "name": "magento/module-media-gallery-synchronization-api",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-synchronization-api-100.4.3.zip",
+                    "shasum": "e39473f8c57cbaab9a07255e731a6cbe598daa73"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGallerySynchronizationApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery synchronization implementation API"
+            }
+        ]
+    }
+}

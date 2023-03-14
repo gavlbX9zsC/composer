@@ -1,0 +1,66 @@
+{
+    "packages": {
+        "magento/inventory-composer-installer": [
+            {
+                "name": "magento/inventory-composer-installer",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/inventory-composer-installer-1.1.0.zip",
+                    "shasum": "acfddc9b89227c2b1e535adbd96f3eddd4b9698d"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.1",
+                    "magento/framework": "*"
+                },
+                "require-dev": {
+                    "composer/composer": "*"
+                },
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Magento\\InventoryComposerInstaller\\Plugin"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\InventoryComposerInstaller\\": "src"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Composer plugin for Magento Multi Source Inventory"
+            },
+            {
+                "name": "magento/inventory-composer-installer",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/inventory-composer-installer-1.2.0.zip",
+                    "shasum": "69399923bbb8f2a1023312d76122093645010ff1"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.1 || ^2.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "magento/framework": "*"
+                },
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Magento\\InventoryComposerInstaller\\Plugin"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\InventoryComposerInstaller\\": "src"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Composer plugin for Magento Multi Source Inventory"
+            }
+        ]
+    }
+}

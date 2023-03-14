@@ -1,0 +1,176 @@
+{
+    "packages": {
+        "magento/module-release-notification": [
+            {
+                "name": "magento/module-release-notification",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-release-notification-100.3.5.zip",
+                    "shasum": "4bbd5e41d662964a78dab88da6d130b0aeaa2fb4"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReleaseNotification\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-release-notification",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-release-notification-100.4.0.zip",
+                    "shasum": "acad13f9602ec037a2ad6e23c2d927f9a114767c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReleaseNotification\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-release-notification",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-release-notification-100.4.1.zip",
+                    "shasum": "b151bea9481d70b9f810f8cee7cb7b95b311b2d9"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReleaseNotification\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-release-notification",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-release-notification-100.4.2.zip",
+                    "shasum": "d7ce0a582c0e1121422c04a6e3eb0b59d923d1be"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReleaseNotification\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-release-notification",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-release-notification-100.4.3.zip",
+                    "shasum": "8a57be8db97264e4710d3ea40e5487fb20aada68"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReleaseNotification\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

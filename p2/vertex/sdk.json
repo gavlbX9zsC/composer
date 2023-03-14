@@ -1,0 +1,559 @@
+{
+    "packages": {
+        "vertex/sdk": [
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.0.0.zip",
+                    "shasum": "036e1e11e38abca8bfb664e1610ec3f83ae0ba7f"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "php": "^7.1",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^7.2",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "tests/",
+                        ".gitignore"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "@test:phpcs",
+                        "@test:phpmd",
+                        "@test:unit",
+                        "@test:integration"
+                    ],
+                    "test:phpcs": [
+                        "phpcs --standard=PSR2 src/"
+                    ],
+                    "test:phpmd": [
+                        "phpmd . text tests/phpmd-ruleset.xml --exclude vendor"
+                    ],
+                    "test:unit": [
+                        "phpunit tests/Unit"
+                    ],
+                    "test:integration": [
+                        "phpunit tests/Integration"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            },
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.1.0.zip",
+                    "shasum": "ddfddd5168725c4e0752d2a141ed215d3a48b627"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "php": "^7.1",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^7.2",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "tests/",
+                        ".gitignore"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "@test:phpcs",
+                        "@test:phpmd",
+                        "@test:unit",
+                        "@test:integration"
+                    ],
+                    "test:phpcs": [
+                        "phpcs --standard=PSR2 src/"
+                    ],
+                    "test:phpmd": [
+                        "phpmd . text tests/phpmd-ruleset.xml --exclude vendor"
+                    ],
+                    "test:unit": [
+                        "phpunit tests/Unit"
+                    ],
+                    "test:integration": [
+                        "phpunit tests/Integration"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            },
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.2.0.zip",
+                    "shasum": "5588b4c8bf77e1d52a6fb63ad85826276738c301"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "php": "^7.1",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^7.2",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "tests/",
+                        ".gitignore"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "@test:phpcs",
+                        "@test:phpmd",
+                        "@test:unit",
+                        "@test:integration"
+                    ],
+                    "test:phpcs": [
+                        "phpcs --standard=PSR2 src/"
+                    ],
+                    "test:phpmd": [
+                        "phpmd . text tests/phpmd-ruleset.xml --exclude vendor"
+                    ],
+                    "test:unit": [
+                        "phpunit tests/Unit"
+                    ],
+                    "test:integration": [
+                        "phpunit tests/Integration"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            },
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.3.0.zip",
+                    "shasum": "3068d129cc3de1f49bd7880c5f356b264c865e8e"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "php": "^7.1",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^7.2",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "tests/",
+                        ".gitignore"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "@test:phpcs",
+                        "@test:phpmd",
+                        "@test:unit",
+                        "@test:integration"
+                    ],
+                    "test:phpcs": [
+                        "phpcs --standard=PSR2 src/"
+                    ],
+                    "test:phpmd": [
+                        "phpmd . text tests/phpmd-ruleset.xml --exclude vendor"
+                    ],
+                    "test:unit": [
+                        "phpunit tests/Unit"
+                    ],
+                    "test:integration": [
+                        "phpunit tests/Integration"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            },
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.4.0.zip",
+                    "shasum": "2b9fd3deb46f45930b90d4e020f3236d8256cd4a"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "php": "^7.3",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^9",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "tests/",
+                        ".gitignore"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "@test:phpcs",
+                        "@test:phpmd",
+                        "@test:unit",
+                        "@test:integration"
+                    ],
+                    "test:phpcs": [
+                        "phpcs --standard=PSR2 src/"
+                    ],
+                    "test:phpmd": [
+                        "phpmd . text tests/phpmd-ruleset.xml --exclude vendor"
+                    ],
+                    "test:unit": [
+                        "phpunit tests/Unit"
+                    ],
+                    "test:integration": [
+                        "phpunit tests/Integration"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            },
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.5.0.zip",
+                    "shasum": "1d2cab94f393be238516799fc7077c336829fae4"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "php": "^7.1",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^7.2",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "tests/",
+                        ".gitignore"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "@test:phpcs",
+                        "@test:phpmd",
+                        "@test:unit",
+                        "@test:integration"
+                    ],
+                    "test:phpcs": [
+                        "phpcs --standard=PSR2 src/"
+                    ],
+                    "test:phpmd": [
+                        "phpmd . text tests/phpmd-ruleset.xml --exclude vendor"
+                    ],
+                    "test:unit": [
+                        "phpunit tests/Unit"
+                    ],
+                    "test:integration": [
+                        "phpunit tests/Integration"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            },
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.6.0.zip",
+                    "shasum": "89c9d388a01e1386646968f4560b30069cabaa9d"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "php": "^7.1",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^7.2",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "tests/",
+                        ".gitignore"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "@test:phpcs",
+                        "@test:phpmd",
+                        "@test:unit",
+                        "@test:integration"
+                    ],
+                    "test:phpcs": [
+                        "phpcs --standard=PSR2 src/"
+                    ],
+                    "test:phpmd": [
+                        "phpmd . text tests/phpmd-ruleset.xml --exclude vendor"
+                    ],
+                    "test:unit": [
+                        "phpunit tests/Unit"
+                    ],
+                    "test:integration": [
+                        "phpunit tests/Integration"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            },
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.6-p1",
+                "version_normalized": "1.2.6.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.6.0-patch1.zip",
+                    "shasum": "b63e8101b421602b70a768916e2efb4b3d703cc1"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "php": "^7.1",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^7.2",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "tests/",
+                        ".gitignore"
+                    ]
+                },
+                "scripts": {
+                    "test": [
+                        "@test:phpcs",
+                        "@test:phpmd",
+                        "@test:unit",
+                        "@test:integration"
+                    ],
+                    "test:phpcs": [
+                        "phpcs --standard=PSR2 src/"
+                    ],
+                    "test:phpmd": [
+                        "phpmd . text tests/phpmd-ruleset.xml --exclude vendor"
+                    ],
+                    "test:unit": [
+                        "phpunit tests/Unit"
+                    ],
+                    "test:integration": [
+                        "phpunit tests/Integration"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            },
+            {
+                "name": "vertex/sdk",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-sdk-1.2.7.0.zip",
+                    "shasum": "821465662cc2d8ec186e2baf138a7c3075fcf3ee"
+                },
+                "require": {
+                    "ext-mbstring": "*",
+                    "ext-openssl": "*",
+                    "ext-soap": "*",
+                    "php": "^5.4|^7"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2",
+                    "magento/magento-coding-standard": "^5.0",
+                    "php": "^7.3",
+                    "phpmd/phpmd": "^2.6",
+                    "phpunit/phpunit": "^9",
+                    "squizlabs/php_codesniffer": "^3.3"
+                },
+                "type": "library",
+                "autoload": {
+                    "psr-4": {
+                        "Vertex\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Vertex\\Test\\": "tests/"
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        ".github",
+                        ".git",
+                        ".gitattributes",
+                        ".gitignore",
+                        ".travis.yml",
+                        "phpcs.xml"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Tools for communicating with Vertex Cloud and Vertex O-Series"
+            }
+        ]
+    }
+}

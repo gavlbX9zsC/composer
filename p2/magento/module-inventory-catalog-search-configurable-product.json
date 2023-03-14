@@ -1,0 +1,134 @@
+{
+    "packages": {
+        "magento/module-inventory-catalog-search-configurable-product": [
+            {
+                "name": "magento/module-inventory-catalog-search-configurable-product",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-catalog-search-configurable-product-1.0.0.zip",
+                    "shasum": "8f1bc1a588c71113f7d291f8c027111a256f824d"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-inventory-catalog-search": "1.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalogSearchConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog-search-configurable-product",
+                "version": "1.0.0-p1",
+                "version_normalized": "1.0.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-catalog-search-configurable-product-1.0.0-p1.zip",
+                    "shasum": "df45956be58816f108d8ac5134d308cfdd2e8300"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-inventory-catalog-search": "1.2.1-p1",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalogSearchConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog-search-configurable-product",
+                "version": "1.0.0-p2",
+                "version_normalized": "1.0.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-catalog-search-configurable-product-1.0.0-p2.zip",
+                    "shasum": "a752839f2e955ca0af0eb1e0e39528a7a666719c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-inventory-catalog-search": "1.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalogSearchConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-catalog-search-configurable-product",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-catalog-search-configurable-product-1.0.1.zip",
+                    "shasum": "e4edac62d4640df26d1cce580a7c602e3f6651df"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-configurable-product": "*",
+                    "magento/module-eav": "*",
+                    "magento/module-inventory-catalog-search": "1.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryCatalogSearchConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

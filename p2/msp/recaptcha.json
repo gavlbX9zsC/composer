@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "msp/recaptcha": [
+            {
+                "name": "msp/recaptcha",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/msp-recaptcha-2.2.3.0.zip",
+                    "shasum": "1d83bfe56e4c821f89e1e24bb4e31d1b7accc40a"
+                },
+                "require": {
+                    "google/recaptcha": "^1.1",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-customer": "*",
+                    "magento/module-newsletter": "*",
+                    "php": "^7.1|^7.2|^7.3"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "MSP\\ReCaptcha\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Riccardo Tempesta",
+                        "email": "riccardo.tempesta@magespecialist.it"
+                    }
+                ],
+                "description": "Google reCaptcha integration for Magento2"
+            }
+        ]
+    }
+}

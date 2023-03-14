@@ -1,0 +1,233 @@
+{
+    "packages": {
+        "magento/module-wishlist-graph-ql": [
+            {
+                "name": "magento/module-wishlist-graph-ql",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-graph-ql-100.3.4.zip",
+                    "shasum": "d327e9900cb7ad199c3acea8327c590a528d24a6"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog-graph-ql": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-wishlist": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-graph-ql",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-graph-ql-100.4.0.zip",
+                    "shasum": "09dc9213ef7604e625185d3b9f652a0dd66b7a74"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-graph-ql",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-graph-ql-100.4.1.zip",
+                    "shasum": "65a31144d48bfebf2d8be0906e77bea080d3cfe4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-graph-ql",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-graph-ql-100.4.2.zip",
+                    "shasum": "0ab464343bf0d0774024eb02c96992384225a46d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-graph-ql",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-graph-ql-100.4.3.zip",
+                    "shasum": "2f3925323a1dd12dcd8f20ab62a64f503096505b"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-graph-ql",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-graph-ql-100.4.4.zip",
+                    "shasum": "3ded6a5110838fd062e657a4855fc980e20f49ee"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-wishlist-graph-ql",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-wishlist-graph-ql-100.4.5.zip",
+                    "shasum": "23aadf8e4394bea17b840623ab81102aaa155c75"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-wishlist": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\WishlistGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

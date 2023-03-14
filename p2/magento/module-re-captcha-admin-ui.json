@@ -1,0 +1,125 @@
+{
+    "packages": {
+        "magento/module-re-captcha-admin-ui": [
+            {
+                "name": "magento/module-re-captcha-admin-ui",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-admin-ui-1.0.0.zip",
+                    "shasum": "04bb0411b4eed6956317ade1f9ea2e984487f347"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-config": "*",
+                    "magento/module-re-captcha-ui": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-admin-ui",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-admin-ui-1.1.0.zip",
+                    "shasum": "4968c6d8c0973a9893bdaf07187e8b0f8d6a1295"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-config": "*",
+                    "magento/module-re-captcha-ui": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-admin-ui",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-admin-ui-1.1.1.zip",
+                    "shasum": "fc62941e19a50a9bb46de1829ebe0eead37b221e"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-config": "*",
+                    "magento/module-re-captcha-ui": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-admin-ui",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-admin-ui-1.1.2.zip",
+                    "shasum": "1733531c46c70334556a19a8f723cff3b84420d4"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-config": "*",
+                    "magento/module-re-captcha-ui": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            }
+        ]
+    }
+}

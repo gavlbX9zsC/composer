@@ -1,0 +1,102 @@
+{
+    "packages": {
+        "magento/module-tax-graph-ql": [
+            {
+                "name": "magento/module-tax-graph-ql",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-tax-graph-ql-100.3.5.zip",
+                    "shasum": "1466b8bc4a08e54befe836e23da27f9d2b3c940c"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-graph-ql": "100.3.*",
+                    "magento/module-tax": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TaxGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-tax-graph-ql",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-tax-graph-ql-100.4.0.zip",
+                    "shasum": "35b912e997f985950aeabeedb6f06f925623f81e"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-tax": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TaxGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-tax-graph-ql",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-tax-graph-ql-100.4.1.zip",
+                    "shasum": "51750a921f9b42791ef39b84305de1f65a3555a7"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-tax": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TaxGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

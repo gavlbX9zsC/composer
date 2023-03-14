@@ -1,0 +1,126 @@
+{
+    "packages": {
+        "magento/module-catalog-analytics": [
+            {
+                "name": "magento/module-catalog-analytics",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-analytics-100.3.5.zip",
+                    "shasum": "f316a7e87bc7bf644e4dd33f4487760b04fc01f8"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-analytics": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-analytics",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-analytics-100.4.0.zip",
+                    "shasum": "88313d13f7d945cd06eedd3d3d136f8e2be7e413"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-analytics",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-analytics-100.4.1.zip",
+                    "shasum": "ea0b54d72632a56cb855a46d23aa31b20a5767c6"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-analytics",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-analytics-100.4.2.zip",
+                    "shasum": "8f32ae490cbdd325aee04874717f4cc6a0bc56de"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

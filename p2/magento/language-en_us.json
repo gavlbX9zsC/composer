@@ -1,0 +1,54 @@
+{
+    "packages": {
+        "magento/language-en_us": [
+            {
+                "name": "magento/language-en_us",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/language-en_us-100.3.4.zip",
+                    "shasum": "0de8807c7258d21a52ec6584e3dfad46cfe2a348"
+                },
+                "require": {
+                    "magento/framework": "102.0.*"
+                },
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "English (United States) language"
+            },
+            {
+                "name": "magento/language-en_us",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/language-en_us-100.4.0.zip",
+                    "shasum": "6b9b4e6baabb7a83d1bccc1e0afcd194f491b077"
+                },
+                "require": {
+                    "magento/framework": "103.0.*"
+                },
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "English (United States) language"
+            }
+        ]
+    }
+}

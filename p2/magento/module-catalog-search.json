@@ -1,0 +1,300 @@
+{
+    "packages": {
+        "magento/module-catalog-search": [
+            {
+                "name": "magento/module-catalog-search",
+                "version": "101.0.7",
+                "version_normalized": "101.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-search-101.0.7.zip",
+                    "shasum": "ee7c4118b7b8484c4d71fd585957a6e6583f41e4"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-indexer": "100.3.*",
+                    "magento/module-search": "101.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Catalog search"
+            },
+            {
+                "name": "magento/module-catalog-search",
+                "version": "102.0.0",
+                "version_normalized": "102.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-search-102.0.0.zip",
+                    "shasum": "d33a01709556b3f314a2691b0da8e8f44c8dc91a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-indexer": "100.4.*",
+                    "magento/module-search": "101.1.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Catalog search"
+            },
+            {
+                "name": "magento/module-catalog-search",
+                "version": "102.0.1",
+                "version_normalized": "102.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-search-102.0.1.zip",
+                    "shasum": "8a7b745fcb457718eef829e2dd7ebf52d34c8eea"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-indexer": "100.4.*",
+                    "magento/module-search": "101.1.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Catalog search"
+            },
+            {
+                "name": "magento/module-catalog-search",
+                "version": "102.0.2",
+                "version_normalized": "102.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-search-102.0.2.zip",
+                    "shasum": "eca1fad88aee2b041d2a247c537687f70d34bff0"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-indexer": "100.4.*",
+                    "magento/module-search": "101.1.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Catalog search"
+            },
+            {
+                "name": "magento/module-catalog-search",
+                "version": "102.0.3",
+                "version_normalized": "102.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-search-102.0.3.zip",
+                    "shasum": "830d29687c50ac717ae0004485b3ec6ba9215048"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-indexer": "100.4.*",
+                    "magento/module-search": "101.1.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Catalog search"
+            },
+            {
+                "name": "magento/module-catalog-search",
+                "version": "102.0.4",
+                "version_normalized": "102.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-search-102.0.4.zip",
+                    "shasum": "1c49d62529e29387033a9072034146f75c44f9a4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-indexer": "100.4.*",
+                    "magento/module-search": "101.1.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Catalog search"
+            },
+            {
+                "name": "magento/module-catalog-search",
+                "version": "102.0.5",
+                "version_normalized": "102.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-search-102.0.5.zip",
+                    "shasum": "3b19c87e607c40d5db0df1ce8ec26d2c08460f0b"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-indexer": "100.4.*",
+                    "magento/module-search": "101.1.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogSearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Catalog search"
+            }
+        ]
+    }
+}

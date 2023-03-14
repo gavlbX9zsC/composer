@@ -1,0 +1,142 @@
+{
+    "packages": {
+        "magento/module-re-captcha-version-2-checkbox": [
+            {
+                "name": "magento/module-re-captcha-version-2-checkbox",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-version-2-checkbox-1.0.0.zip",
+                    "shasum": "b68df66e59d0f2cabd4c965cc3b4cceb452537ec"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-re-captcha-ui": "*",
+                    "magento/module-re-captcha-validation-api": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "*",
+                    "magento/module-re-captcha-admin-ui": "1.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaVersion2Checkbox\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-version-2-checkbox",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-version-2-checkbox-2.0.0.zip",
+                    "shasum": "bb5cf7ab66b0f57ebc04f8650e20a6621471b0b8"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-re-captcha-ui": "1.1.*",
+                    "magento/module-re-captcha-validation-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "*",
+                    "magento/module-re-captcha-admin-ui": "1.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaVersion2Checkbox\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-version-2-checkbox",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-version-2-checkbox-2.0.1.zip",
+                    "shasum": "a0400bea9b53372ce966a151ff2468000bd68a0e"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-re-captcha-ui": "1.1.*",
+                    "magento/module-re-captcha-validation-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "*",
+                    "magento/module-re-captcha-admin-ui": "1.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaVersion2Checkbox\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            },
+            {
+                "name": "magento/module-re-captcha-version-2-checkbox",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-re-captcha-version-2-checkbox-2.0.2.zip",
+                    "shasum": "fb474ed276f1e7075d6775e5b781041b12619923"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-re-captcha-ui": "1.1.*",
+                    "magento/module-re-captcha-validation-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "*",
+                    "magento/module-re-captcha-admin-ui": "1.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ReCaptchaVersion2Checkbox\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Google reCAPTCHA integration for Magento2"
+            }
+        ]
+    }
+}

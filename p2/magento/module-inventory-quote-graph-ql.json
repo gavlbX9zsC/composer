@@ -1,0 +1,166 @@
+{
+    "packages": {
+        "magento/module-inventory-quote-graph-ql": [
+            {
+                "name": "magento/module-inventory-quote-graph-ql",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-quote-graph-ql-1.0.0.zip",
+                    "shasum": "d860291a1f5d018ab4d21003f10b139273618b44"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-quote-graph-ql",
+                "version": "1.0.0-p1",
+                "version_normalized": "1.0.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-quote-graph-ql-1.0.0-p1.zip",
+                    "shasum": "62236c17a6c7aa76b96920320186ef3b7fe1045c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog": "1.2.1-p1",
+                    "magento/module-inventory-sales-api": "1.2.0-p1",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-quote-graph-ql",
+                "version": "1.0.0-p2",
+                "version_normalized": "1.0.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-quote-graph-ql-1.0.0-p2.zip",
+                    "shasum": "e70113647eae99bd975f6dfcdf50d2f307d200dd"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-quote-graph-ql",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-quote-graph-ql-1.0.1.zip",
+                    "shasum": "3237901c3fb33c7327d8f7eb946bd66f89b9fecc"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-quote-graph-ql",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-quote-graph-ql-1.0.2.zip",
+                    "shasum": "b923203ad2304007be7651b1ae90cd7a73dd57f8"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-catalog": "1.3.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

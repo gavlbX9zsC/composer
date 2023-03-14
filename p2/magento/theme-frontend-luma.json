@@ -1,0 +1,188 @@
+{
+    "packages": {
+        "magento/theme-frontend-luma": [
+            {
+                "name": "magento/theme-frontend-luma",
+                "version": "100.3.7",
+                "version_normalized": "100.3.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/theme-frontend-luma-100.3.7.zip",
+                    "shasum": "72896dd0cead10fca98b9305964f244473447eea"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/theme-frontend-blank": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-theme",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/theme-frontend-luma",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/theme-frontend-luma-100.4.0.zip",
+                    "shasum": "324b67a124156e6dc3831307e6d1c43b18999ca0"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/theme-frontend-blank": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-theme",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/theme-frontend-luma",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/theme-frontend-luma-100.4.1.zip",
+                    "shasum": "8c94f98a35f58af65d47dfddf84a9bf56c5369cd"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/theme-frontend-blank": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-theme",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/theme-frontend-luma",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/theme-frontend-luma-100.4.2.zip",
+                    "shasum": "910ec42a8ee537482f75ef6701bdacc3819b881a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/theme-frontend-blank": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-theme",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/theme-frontend-luma",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/theme-frontend-luma-100.4.3.zip",
+                    "shasum": "ad48aa4ebdf3ac762c53e6cfbed4659fd427b50e"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/theme-frontend-blank": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-theme",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/theme-frontend-luma",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/theme-frontend-luma-100.4.4.zip",
+                    "shasum": "c1af7bba52b681f4de75999b492b5714c72e1dec"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/theme-frontend-blank": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-theme",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/theme-frontend-luma",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/theme-frontend-luma-100.4.5.zip",
+                    "shasum": "07930800e3b88cbf24d5e97632c30dc52d0dae5e"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/theme-frontend-blank": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-theme",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

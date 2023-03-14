@@ -1,0 +1,105 @@
+{
+    "packages": {
+        "magento/module-bundle-sample-data": [
+            {
+                "name": "magento/module-bundle-sample-data",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-sample-data-100.3.5.zip",
+                    "shasum": "939e4342b5b16c88177f4bb941127a527033c55a"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-bundle": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-sample-data": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle-sample-data",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-sample-data-100.4.0.zip",
+                    "shasum": "f6775bc63687fb3f0d988fb9dd0b0b97bd4d6a55"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-bundle": "101.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-sample-data": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle-sample-data",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-sample-data-100.4.1.zip",
+                    "shasum": "7ca82ac4bf567f31e3c1fd96fce9cf56952bb85e"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-bundle": "101.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-sample-data": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "packages": {
+        "magento/module-media-gallery-ui": [
+            {
+                "name": "magento/module-media-gallery-ui",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-ui-1.0.0.zip",
+                    "shasum": "9f1dae0fc765d68a35202ddaee80605bd4daa795"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-cms": "*",
+                    "magento/module-media-content-api": "*",
+                    "magento/module-media-gallery-api": "*",
+                    "magento/module-media-gallery-synchronization": "1.0.*",
+                    "magento/module-media-gallery-synchronization-api": "1.0.*",
+                    "magento/module-media-gallery-ui-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery UI implementation"
+            },
+            {
+                "name": "magento/module-media-gallery-ui",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-ui-100.4.0.zip",
+                    "shasum": "e86fd0fea7ae822c20cfbb5fe6c23f001f0c2b6b"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "magento/module-media-gallery-metadata-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-ui-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery UI implementation"
+            },
+            {
+                "name": "magento/module-media-gallery-ui",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-ui-100.4.1.zip",
+                    "shasum": "e8ff931f40dfd2f6f540c336092536f1a74fd907"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "magento/module-media-gallery-metadata-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-ui-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery UI implementation"
+            },
+            {
+                "name": "magento/module-media-gallery-ui",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-ui-100.4.2.zip",
+                    "shasum": "711292456415c293d78a80d7c91dfeca78130c89"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "magento/module-media-gallery-metadata-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-ui-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery UI implementation"
+            },
+            {
+                "name": "magento/module-media-gallery-ui",
+                "version": "100.4.2-p1",
+                "version_normalized": "100.4.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-ui-100.4.2-p1.zip",
+                    "shasum": "a4b99c3cfa36bafd259566af829867a41862d0d0"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "magento/module-media-gallery-metadata-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-ui-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery UI implementation"
+            },
+            {
+                "name": "magento/module-media-gallery-ui",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-ui-100.4.3.zip",
+                    "shasum": "b460ffd8161c33fa95529e0cb6d74fa0f8e99879"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "magento/module-media-gallery-metadata-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-ui-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery UI implementation"
+            },
+            {
+                "name": "magento/module-media-gallery-ui",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-ui-100.4.4.zip",
+                    "shasum": "84f1452a687be1cf5ae8cc2bf9023a336c3b1a99"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-gallery-api": "101.0.*",
+                    "magento/module-media-gallery-metadata-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-ui-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for the media gallery UI implementation"
+            }
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "magento/module-media-gallery-metadata-api": [
+            {
+                "name": "magento/module-media-gallery-metadata-api",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-metadata-api-100.4.0.zip",
+                    "shasum": "6bd196974cebb3f085ef70208ee86a09660c759d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryMetadataApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media gallery metadata implementation API"
+            },
+            {
+                "name": "magento/module-media-gallery-metadata-api",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-metadata-api-100.4.1.zip",
+                    "shasum": "12d162993fdc045c4f26c65dc5a13749b63684d8"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryMetadataApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media gallery metadata implementation API"
+            },
+            {
+                "name": "magento/module-media-gallery-metadata-api",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-metadata-api-100.4.2.zip",
+                    "shasum": "d0b20c3e094012812e7f1d9d6bc730128a35d7b9"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryMetadataApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for media gallery metadata implementation API"
+            }
+        ]
+    }
+}

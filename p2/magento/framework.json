@@ -1,0 +1,1233 @@
+{
+    "packages": {
+        "magento/framework": [
+            {
+                "name": "magento/framework",
+                "version": "102.0.7-p2",
+                "version_normalized": "102.0.7.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-102.0.7-p2.zip",
+                    "shasum": "28ca6c5a21b57942c7e6f841e0e6d9854c921024"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-escaper": "2.7.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "symfony/console": "~4.1.0||~4.2.0||~4.3.0||~4.4.0",
+                    "symfony/process": "~4.1.0||~4.2.0||~4.3.0||~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "102.0.7-p3",
+                "version_normalized": "102.0.7.0-patch3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-102.0.7-p3.zip",
+                    "shasum": "72b89a4e20ba7b1a6bab55628b0e11d21971a38e"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-escaper": "2.7.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "symfony/console": "~4.1.0||~4.2.0||~4.3.0||~4.4.0",
+                    "symfony/process": "~4.1.0||~4.2.0||~4.3.0||~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.0",
+                "version_normalized": "103.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.0.zip",
+                    "shasum": "f906ddfc4759fb6562f45e977826b50e2a32eba5"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~3.8.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    },
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.0-p1",
+                "version_normalized": "103.0.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.0-p1.zip",
+                    "shasum": "0036e13eff77467692e82cbefbc4b23695796a63"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~3.8.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.1",
+                "version_normalized": "103.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.1.zip",
+                    "shasum": "52d7f90242752ffa04386d4217356b95c60822ab"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~3.8.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.1-p1",
+                "version_normalized": "103.0.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.1-p1.zip",
+                    "shasum": "8a6b5fa34de53ca90c2ea564bda34528c226c677"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~3.8.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.2",
+                "version_normalized": "103.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.2.zip",
+                    "shasum": "6e56bf0a2e11319ca35aa3b5928b1a7e3243cb3a"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~3.8.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.2-p1",
+                "version_normalized": "103.0.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.2-p1.zip",
+                    "shasum": "4e7a9b179eef7b3a9308ad5cecdfe3c17c85829b"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~3.8.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.2-p2",
+                "version_normalized": "103.0.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.2-p2.zip",
+                    "shasum": "41a8f5388686873d6e4d19f174244b4552634ec2"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "~3.4.1",
+                    "laminas/laminas-crypt": "^2.6.0",
+                    "laminas/laminas-escaper": "2.7.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.5.0",
+                    "laminas/laminas-mvc": "~2.7.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~3.8.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.3.0",
+                    "wikimedia/less.php": "~1.8.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.3",
+                "version_normalized": "103.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.3.zip",
+                    "shasum": "a5dc8d9afa274063b106f9cd703b3d262a3dd8ce"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "^3.5.1",
+                    "laminas/laminas-crypt": "^3.4.0",
+                    "laminas/laminas-escaper": "2.7.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.8.0",
+                    "laminas/laminas-mvc": "^3.2.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~4.1.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "web-token/jwt-framework": "^v2.2.7",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.3-p1",
+                "version_normalized": "103.0.3.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.3-p1.zip",
+                    "shasum": "8ec1e7a82c7ca9ddcd4f881e7f1f0fb1b2b23123"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "^3.5.1",
+                    "laminas/laminas-crypt": "^3.4.0",
+                    "laminas/laminas-escaper": "2.7.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.8.0",
+                    "laminas/laminas-mvc": "^3.2.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~4.1.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "web-token/jwt-framework": "^v2.2.7",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.3-p2",
+                "version_normalized": "103.0.3.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.3-p2.zip",
+                    "shasum": "5617775c054cd2dd679adfdb73a3e71de4108aa7"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "^3.5.1",
+                    "laminas/laminas-crypt": "^3.4.0",
+                    "laminas/laminas-escaper": "2.7.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.8.0",
+                    "laminas/laminas-mvc": "^3.2.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~4.1.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "web-token/jwt-framework": "^v2.2.7",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.3-p3",
+                "version_normalized": "103.0.3.0-patch3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.3-p3.zip",
+                    "shasum": "df848cb82ae11757c541f6050c95cc7e16e7317f"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.0",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^6.3.3",
+                    "laminas/laminas-code": "^3.5.1",
+                    "laminas/laminas-crypt": "^3.4.0",
+                    "laminas/laminas-escaper": "2.7.0",
+                    "laminas/laminas-http": "^2.6.0",
+                    "laminas/laminas-mail": "^2.9.0",
+                    "laminas/laminas-mime": "^2.8.0",
+                    "laminas/laminas-mvc": "^3.2.0",
+                    "laminas/laminas-stdlib": "^3.2.1",
+                    "laminas/laminas-uri": "^2.5.1",
+                    "laminas/laminas-validator": "^2.6.0",
+                    "lib-libxml": "*",
+                    "magento/zendframework1": "~1.14.2",
+                    "monolog/monolog": "^1.17",
+                    "php": "~7.3.0||~7.4.0",
+                    "ramsey/uuid": "~4.1.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "web-token/jwt-framework": "^v2.2.7",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.4",
+                "version_normalized": "103.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.4.zip",
+                    "shasum": "71603c0c3c0650d3bb2e3f9ab66c294397e7fb2a"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.5",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-sodium": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^7.3.0",
+                    "laminas/laminas-code": "~4.5.0",
+                    "laminas/laminas-escaper": "~2.9.0",
+                    "laminas/laminas-http": "^2.15.0",
+                    "laminas/laminas-mail": "^2.15.1",
+                    "laminas/laminas-mime": "^2.9.1",
+                    "laminas/laminas-stdlib": "^3.6.0",
+                    "laminas/laminas-uri": "^2.9.1",
+                    "laminas/laminas-validator": "^2.15.0",
+                    "lib-libxml": "*",
+                    "magento/composer-dependency-version-audit-plugin": "~0.1",
+                    "magento/zendframework1": "~1.15.0",
+                    "monolog/monolog": "^2.3",
+                    "php": "~7.4.0||~8.1.0",
+                    "ramsey/uuid": "~4.2.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "webonyx/graphql-php": "~14.11.3",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.4-p1",
+                "version_normalized": "103.0.4.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.4-p1.zip",
+                    "shasum": "3382d32bde61267844281f50e26e87a0d43c2605"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.5",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-sodium": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^7.3.0",
+                    "laminas/laminas-code": "~4.5.0",
+                    "laminas/laminas-escaper": "~2.9.0",
+                    "laminas/laminas-http": "^2.15.0",
+                    "laminas/laminas-mail": "^2.15.1",
+                    "laminas/laminas-mime": "^2.9.1",
+                    "laminas/laminas-stdlib": "^3.6.0",
+                    "laminas/laminas-uri": "^2.9.1",
+                    "laminas/laminas-validator": "^2.15.0",
+                    "lib-libxml": "*",
+                    "magento/composer-dependency-version-audit-plugin": "~0.1",
+                    "magento/zendframework1": "~1.15.0",
+                    "monolog/monolog": "^2.7",
+                    "php": "~7.4.0||~8.1.0",
+                    "ramsey/uuid": "~4.2.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "webonyx/graphql-php": "~14.11.3",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.4-p2",
+                "version_normalized": "103.0.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.4-p2.zip",
+                    "shasum": "568efadfc90fbed26b4208af425b56161ed72958"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.5",
+                    "composer/composer": "^1.9 || ^2.0",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-sodium": "*",
+                    "ext-xsl": "*",
+                    "guzzlehttp/guzzle": "^7.3.0",
+                    "laminas/laminas-code": "~4.5.0",
+                    "laminas/laminas-escaper": "~2.9.0",
+                    "laminas/laminas-http": "^2.15.0",
+                    "laminas/laminas-mail": "^2.15.1",
+                    "laminas/laminas-mime": "^2.9.1",
+                    "laminas/laminas-stdlib": "^3.6.0",
+                    "laminas/laminas-uri": "^2.9.1",
+                    "laminas/laminas-validator": "^2.15.0",
+                    "lib-libxml": "*",
+                    "magento/composer-dependency-version-audit-plugin": "~0.1",
+                    "magento/zendframework1": "~1.15.0",
+                    "monolog/monolog": "^2.7",
+                    "php": "~7.4.0||~8.1.0",
+                    "ramsey/uuid": "~4.2.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "webonyx/graphql-php": "~14.11.3",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.5",
+                "version_normalized": "103.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.5.zip",
+                    "shasum": "0d0ddf696730484c7aba8e0bec06ea3c5211b51d"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.5",
+                    "composer/composer": "^1.9 || ^2.0, !=2.2.16",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-sodium": "*",
+                    "ext-xsl": "*",
+                    "ezyang/htmlpurifier": "^4.14",
+                    "guzzlehttp/guzzle": "^7.4.2",
+                    "laminas/laminas-code": "~4.5.0",
+                    "laminas/laminas-escaper": "~2.10.0",
+                    "laminas/laminas-http": "^2.15.0",
+                    "laminas/laminas-mail": "^2.16.0",
+                    "laminas/laminas-mime": "^2.9.1",
+                    "laminas/laminas-stdlib": "^3.7.1",
+                    "laminas/laminas-uri": "^2.9.1",
+                    "laminas/laminas-validator": "^2.17.0",
+                    "lib-libxml": "*",
+                    "magento/composer-dependency-version-audit-plugin": "~0.1",
+                    "magento/zendframework1": "~1.15.0",
+                    "monolog/monolog": "^2.7",
+                    "php": "~7.4.0||~8.1.0",
+                    "ramsey/uuid": "~4.2.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "webonyx/graphql-php": "~14.11.6",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/framework",
+                "version": "103.0.5-p1",
+                "version_normalized": "103.0.5.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/framework-103.0.5-p1.zip",
+                    "shasum": "176b47cf121d331472fee5980b5870e67bee4e28"
+                },
+                "require": {
+                    "colinmollenhour/php-redis-session-abstract": "~1.4.5",
+                    "composer/composer": "^1.9 || ^2.0, !=2.2.16",
+                    "ext-bcmath": "*",
+                    "ext-curl": "*",
+                    "ext-dom": "*",
+                    "ext-gd": "*",
+                    "ext-hash": "*",
+                    "ext-iconv": "*",
+                    "ext-intl": "*",
+                    "ext-openssl": "*",
+                    "ext-simplexml": "*",
+                    "ext-sodium": "*",
+                    "ext-xsl": "*",
+                    "ezyang/htmlpurifier": "^4.14",
+                    "guzzlehttp/guzzle": "^7.4.2",
+                    "laminas/laminas-code": "~4.5.0",
+                    "laminas/laminas-escaper": "~2.10.0",
+                    "laminas/laminas-http": "^2.15.0",
+                    "laminas/laminas-mail": "^2.16.0",
+                    "laminas/laminas-mime": "^2.9.1",
+                    "laminas/laminas-stdlib": "^3.7.1",
+                    "laminas/laminas-uri": "^2.9.1",
+                    "laminas/laminas-validator": "^2.17.0",
+                    "lib-libxml": "*",
+                    "magento/composer-dependency-version-audit-plugin": "~0.1",
+                    "magento/zendframework1": "~1.15.0",
+                    "monolog/monolog": "^2.7",
+                    "php": "~7.4.0||~8.1.0",
+                    "ramsey/uuid": "~4.2.0",
+                    "symfony/console": "~4.4.0",
+                    "symfony/process": "~4.4.0",
+                    "tedivm/jshrink": "~1.4.0",
+                    "webonyx/graphql-php": "~14.11.6",
+                    "wikimedia/less.php": "^3.0.0"
+                },
+                "suggest": {
+                    "ext-imagick": "Use Image Magick >=3.0.0 as an optional alternative image processing library"
+                },
+                "type": "magento2-library",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Framework\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        "Amqp",
+                        "Bulk",
+                        "MessageQueue"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

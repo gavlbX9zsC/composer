@@ -1,0 +1,244 @@
+{
+    "packages": {
+        "magento/module-persistent": [
+            {
+                "name": "magento/module-persistent",
+                "version": "100.3.7",
+                "version_normalized": "100.3.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-persistent-100.3.7.zip",
+                    "shasum": "e3173665fa49df7d83c5c88bca07fd0e1f48cdd0"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-cron": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-page-cache": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Persistent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-persistent",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-persistent-100.4.0.zip",
+                    "shasum": "3eb991074f928a943967a99dbbf050afbb04604d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-cron": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Persistent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-persistent",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-persistent-100.4.1.zip",
+                    "shasum": "a41dc7387ddef8aac179ce7a8beff1dcb91c32ac"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-cron": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Persistent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-persistent",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-persistent-100.4.2.zip",
+                    "shasum": "e75151e2dc404f28827c079452f73701966c7c88"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-cron": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Persistent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-persistent",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-persistent-100.4.3.zip",
+                    "shasum": "af61bc1d7bd07c160444249b7a24ba85f0f5d7a1"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-cron": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Persistent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-persistent",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-persistent-100.4.4.zip",
+                    "shasum": "e963e0404d19562c89b3df35911836022ca46cbb"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-cron": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Persistent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-persistent",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-persistent-100.4.5.zip",
+                    "shasum": "1f4b9a8b88e087594ceaa8e39f11000fb002717a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-cron": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Persistent\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

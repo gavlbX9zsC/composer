@@ -1,0 +1,388 @@
+{
+    "packages": {
+        "magento/module-inventory-indexer": [
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-1.0.10.zip",
+                    "shasum": "b8114a33f9410c03f1981042ca5ecdc2aaaec7a2"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.0.*",
+                    "magento/module-inventory-sales": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-1.0.8.zip",
+                    "shasum": "e4f61f62903a4deb16ac8b3598eb2d92c512afe4"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.0.*",
+                    "magento/module-inventory-sales": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-1.0.9.zip",
+                    "shasum": "499f11576f41f090a65bf65b8a88e0712e8170b1"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.0.*",
+                    "magento/module-inventory-sales": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-2.0.0.zip",
+                    "shasum": "9136df7e52b7461376befa3fd1775f48cb541baa"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/framework-message-queue": "*",
+                    "magento/module-inventory": "1.1.*",
+                    "magento/module-inventory-api": "1.1.*",
+                    "magento/module-inventory-catalog-api": "1.2.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.1.*",
+                    "magento/module-inventory-sales": "1.1.*",
+                    "magento/module-inventory-sales-api": "1.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-2.1.0.zip",
+                    "shasum": "621b09699d41ea4fa254caddabd4bc7021b7c479"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/framework-message-queue": "*",
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.2.*",
+                    "magento/module-inventory-sales": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-2.1.1.zip",
+                    "shasum": "40349bb53517743478536f8cd25f70dbf65ab7cb"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/framework-message-queue": "*",
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.2.*",
+                    "magento/module-inventory-sales": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "2.1.1-p1",
+                "version_normalized": "2.1.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-2.1.1-p1.zip",
+                    "shasum": "899a652420d7a3132d2d72cd530f02fb54423b48"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/framework-message-queue": "*",
+                    "magento/module-inventory": "1.2.1-p1",
+                    "magento/module-inventory-api": "1.2.1-p1",
+                    "magento/module-inventory-catalog-api": "1.3.1-p1",
+                    "magento/module-inventory-configuration-api": "1.2.0-p1",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.2.0-p1",
+                    "magento/module-inventory-sales": "1.2.1-p1",
+                    "magento/module-inventory-sales-api": "1.2.0-p1",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "2.1.1-p2",
+                "version_normalized": "2.1.1.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-2.1.1-p2.zip",
+                    "shasum": "423f116fedcf78fb7b77d0d3f4f999b7ed298730"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/framework-message-queue": "*",
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.2.*",
+                    "magento/module-inventory-sales": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-2.1.2.zip",
+                    "shasum": "e41763810272ae18da97cd119c3b76315c8c5dd3"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/framework-message-queue": "*",
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.2.*",
+                    "magento/module-inventory-sales": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-indexer",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-indexer-2.2.0.zip",
+                    "shasum": "edb798fe83ef52396f7a15b78d11aa478a80ad36"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/framework-message-queue": "*",
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-multi-dimensional-indexer-api": "1.2.*",
+                    "magento/module-inventory-sales": "1.3.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryIndexer\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

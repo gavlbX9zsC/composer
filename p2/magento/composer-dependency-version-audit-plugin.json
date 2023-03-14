@@ -1,0 +1,78 @@
+{
+    "packages": {
+        "magento/composer-dependency-version-audit-plugin": [
+            {
+                "name": "magento/composer-dependency-version-audit-plugin",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/composer-dependency-version-audit-plugin-0.1.0.zip",
+                    "shasum": "221d147b44bc456f8d249da85a2c3aa9ce9a8b19"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0",
+                    "composer/composer": "<=1.10.20"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^9"
+                },
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Magento\\ComposerDependencyVersionAuditPlugin\\Plugin"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\ComposerDependencyVersionAuditPlugin\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Magento\\ComposerDependencyVersionAuditPlugin\\": "tests/Unit/Magento/ComposerDependencyVersionAuditPlugin/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Validating packages through a composer plugin"
+            },
+            {
+                "name": "magento/composer-dependency-version-audit-plugin",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/composer-dependency-version-audit-plugin-0.1.1.zip",
+                    "shasum": "3353eb4b6f31c0ea364ab4f46d685d44b67c4377"
+                },
+                "require": {
+                    "composer-plugin-api": "^1.0 || ^2.0",
+                    "composer/composer": "^1.9 || ^2.0"
+                },
+                "require-dev": {
+                    "phpunit/phpunit": "^9"
+                },
+                "type": "composer-plugin",
+                "extra": {
+                    "class": "Magento\\ComposerDependencyVersionAuditPlugin\\Plugin"
+                },
+                "autoload": {
+                    "psr-4": {
+                        "Magento\\ComposerDependencyVersionAuditPlugin\\": "src/"
+                    }
+                },
+                "autoload-dev": {
+                    "psr-4": {
+                        "Magento\\ComposerDependencyVersionAuditPlugin\\": "tests/Unit/Magento/ComposerDependencyVersionAuditPlugin/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Validating packages through a composer plugin"
+            }
+        ]
+    }
+}

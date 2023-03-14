@@ -1,0 +1,278 @@
+{
+    "packages": {
+        "magento/module-inventory-elasticsearch": [
+            {
+                "name": "magento/module-inventory-elasticsearch",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-elasticsearch-1.0.3.zip",
+                    "shasum": "d6d03dd2c41a21dc73c679f49bedbe690f0e2ba8"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-catalog-search": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryElasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-elasticsearch",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-elasticsearch-1.0.4.zip",
+                    "shasum": "06076c9c5cef551635074118d7e4f0f4e17103f8"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-catalog-search": "*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-indexer": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryElasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-elasticsearch",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-elasticsearch-1.1.0.zip",
+                    "shasum": "e0c11fa5cf0881c97fb050d268b16b21a045202c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-catalog-search": "*",
+                    "magento/module-inventory-catalog-api": "1.2.*",
+                    "magento/module-inventory-indexer": "2.0.*",
+                    "magento/module-inventory-sales-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryElasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-elasticsearch",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-elasticsearch-1.2.0.zip",
+                    "shasum": "2e1fa4cf8adc3850bad03a74748233035d03ea28"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-catalog-search": "*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-indexer": "2.1.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryElasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-elasticsearch",
+                "version": "1.2.0-p1",
+                "version_normalized": "1.2.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-elasticsearch-1.2.0-p1.zip",
+                    "shasum": "8fcc68e386ad7045290268aa856ec3fd9fbb8ca5"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-catalog-search": "*",
+                    "magento/module-inventory-catalog-api": "1.3.1-p1",
+                    "magento/module-inventory-indexer": "2.1.1-p1",
+                    "magento/module-inventory-sales-api": "1.2.0-p1",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryElasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-elasticsearch",
+                "version": "1.2.0-p2",
+                "version_normalized": "1.2.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-elasticsearch-1.2.0-p2.zip",
+                    "shasum": "82ee59987308dce343970111a0d1f65e86ed3775"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-catalog-search": "*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-indexer": "2.1.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryElasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-elasticsearch",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-elasticsearch-1.2.1.zip",
+                    "shasum": "072ff2d9d2b6bb81115a4f08284d968e2fcf4fce"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-catalog-search": "*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-indexer": "2.1.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryElasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-elasticsearch",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-elasticsearch-1.2.2.zip",
+                    "shasum": "02f238edd0ac98dd12ef1562f31a2223ea6d787e"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-catalog-search": "*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-indexer": "2.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryElasticsearch\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

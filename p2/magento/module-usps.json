@@ -1,0 +1,228 @@
+{
+    "packages": {
+        "magento/module-usps": [
+            {
+                "name": "magento/module-usps",
+                "version": "100.3.6",
+                "version_normalized": "100.3.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-usps-100.3.6.zip",
+                    "shasum": "a61fa7fe4a7add95a359614075ada17ebe0a9a77"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Usps\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-usps",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-usps-100.4.0.zip",
+                    "shasum": "ee71b31a7e9d7cb69b214d6477cfa48c90d05327"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Usps\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-usps",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-usps-100.4.1.zip",
+                    "shasum": "2266ec472558f0bf8fb942b32d5422a7fd8c82c9"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Usps\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-usps",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-usps-100.4.2.zip",
+                    "shasum": "bb9c0ddc8279519609524471fa851e3c67294859"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Usps\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-usps",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-usps-100.4.3.zip",
+                    "shasum": "32255f4dbf4ac931a493a14f2e4d7b62043ed7c5"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Usps\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-usps",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-usps-100.4.4.zip",
+                    "shasum": "adbf6f4899e931fd2625307131fc2015186a10f3"
+                },
+                "require": {
+                    "lib-libxml": "*",
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Usps\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

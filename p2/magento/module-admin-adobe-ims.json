@@ -1,0 +1,49 @@
+{
+    "packages": {
+        "magento/module-admin-adobe-ims": [
+            {
+                "name": "magento/module-admin-adobe-ims",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-admin-adobe-ims-100.4.0.zip",
+                    "shasum": "936348c2d83d783052d667e98b1139ff689cf736"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-adobe-ims": "2.1.*",
+                    "magento/module-adobe-ims-api": "2.1.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-captcha": "100.4.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-email": "101.1.*",
+                    "magento/module-integration": "100.4.*",
+                    "magento/module-jwt-user-token": "100.4.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdminAdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

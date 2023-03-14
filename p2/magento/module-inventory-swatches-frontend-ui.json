@@ -1,0 +1,134 @@
+{
+    "packages": {
+        "magento/module-inventory-swatches-frontend-ui": [
+            {
+                "name": "magento/module-inventory-swatches-frontend-ui",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-swatches-frontend-ui-1.0.0.zip",
+                    "shasum": "6d435b63a608a4655c3ab54f3856dac11231b2c1"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-configurable-product-frontend-ui": "1.0.*",
+                    "magento/module-swatches": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySwatchesFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-swatches-frontend-ui",
+                "version": "1.0.0-p1",
+                "version_normalized": "1.0.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-swatches-frontend-ui-1.0.0-p1.zip",
+                    "shasum": "181ab56cabfbfa3b0c09fcf066cda8fb3cda0764"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-configurable-product-frontend-ui": "1.0.1-p1",
+                    "magento/module-swatches": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySwatchesFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-swatches-frontend-ui",
+                "version": "1.0.0-p2",
+                "version_normalized": "1.0.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-swatches-frontend-ui-1.0.0-p2.zip",
+                    "shasum": "a5701a8f5cc58c94d0252b3e101aa597a273ce58"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-configurable-product-frontend-ui": "1.0.*",
+                    "magento/module-swatches": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySwatchesFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-swatches-frontend-ui",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-swatches-frontend-ui-1.0.1.zip",
+                    "shasum": "2008961f6cc38784ad36e970aa45640e7b7dbc40"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-inventory-configurable-product-frontend-ui": "1.0.*",
+                    "magento/module-swatches": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySwatchesFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

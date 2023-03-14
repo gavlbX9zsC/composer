@@ -1,0 +1,252 @@
+{
+    "packages": {
+        "magento/module-offline-shipping": [
+            {
+                "name": "magento/module-offline-shipping",
+                "version": "100.3.6",
+                "version_normalized": "100.3.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-100.3.6.zip",
+                    "shasum": "6bd3dd012da6dc7a8fdbd37ba281ebc8fade4496"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-offline-shipping-sample-data": "Sample Data version: 100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-offline-shipping",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-100.4.0.zip",
+                    "shasum": "316d9a889792dd207d9e4792d2c5823e6603f36e"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-offline-shipping-sample-data": "Sample Data version: 100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-offline-shipping",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-100.4.1.zip",
+                    "shasum": "94a38e394718d2b06f34834087422b9664e6d975"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-offline-shipping-sample-data": "Sample Data version: 100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-offline-shipping",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-100.4.2.zip",
+                    "shasum": "7cee3ed6a24864a21d13f01b514605d5ca5a3c10"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-offline-shipping-sample-data": "Sample Data version: 100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-offline-shipping",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-100.4.3.zip",
+                    "shasum": "f0ec90b74a5a53b29d0cdaf0201e5a0fc6c49cac"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-offline-shipping-sample-data": "Sample Data version: 100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-offline-shipping",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-100.4.4.zip",
+                    "shasum": "492da32a918c5c750956db22d1d1349c9aad40ce"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-offline-shipping-sample-data": "Sample Data version: 100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShipping\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

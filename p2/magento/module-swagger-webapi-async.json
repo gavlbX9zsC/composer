@@ -1,0 +1,102 @@
+{
+    "packages": {
+        "magento/module-swagger-webapi-async": [
+            {
+                "name": "magento/module-swagger-webapi-async",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-swagger-webapi-async-100.3.5.zip",
+                    "shasum": "add866b9b2f90ccbdf72fa85622d43c9475c4fd8"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-swagger": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapiAsync\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi-async",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-swagger-webapi-async-100.4.0.zip",
+                    "shasum": "40b31585fc2efc8cbe8317987fa30687008f549c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-swagger": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapiAsync\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-swagger-webapi-async",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-swagger-webapi-async-100.4.1.zip",
+                    "shasum": "6b7fd9d18b56165d8f31e7ac53978e268b6e62b2"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-swagger": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-config": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SwaggerWebapiAsync\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

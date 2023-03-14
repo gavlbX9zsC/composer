@@ -1,0 +1,276 @@
+{
+    "packages": {
+        "magento/module-login-as-customer-frontend-ui": [
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.0.zip",
+                    "shasum": "c13276dbc2a6e439dcf9396f3fa012f37bde68fd"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.1.zip",
+                    "shasum": "dac0451df93c6b5d828a80d78df5946630098e24"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.1-p1",
+                "version_normalized": "100.4.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.1-p1.zip",
+                    "shasum": "9d0c8e5301f34d28f56ebe66b80dcebd82ef9053"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.2.zip",
+                    "shasum": "a3424849528246b884eea7bd42f7676563b00d7f"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.2-p1",
+                "version_normalized": "100.4.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.2-p1.zip",
+                    "shasum": "e7f47dfc0b008bf6132a83bc5c2d23739c879bfd"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.2-p2",
+                "version_normalized": "100.4.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.2-p2.zip",
+                    "shasum": "6cfcb0053664abfee0f4b60a391e56c6896c8641"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.3.zip",
+                    "shasum": "599ae213e153677647739c8add45805f8c6eb185"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.3-p1",
+                "version_normalized": "100.4.3.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.3-p1.zip",
+                    "shasum": "19251a3d01356f7d651db1c5690ae75c562ed14f"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-frontend-ui",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-frontend-ui-100.4.4.zip",
+                    "shasum": "1dd24f814aad6cbc0276330fc9d2e6de3e8c9d7c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerFrontendUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            }
+        ]
+    }
+}

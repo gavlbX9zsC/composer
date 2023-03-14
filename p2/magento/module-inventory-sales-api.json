@@ -1,0 +1,246 @@
+{
+    "packages": {
+        "magento/module-inventory-sales-api": [
+            {
+                "name": "magento/module-inventory-sales-api",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-api-1.0.7.zip",
+                    "shasum": "5358ee61867e94629699d2bd5a099d3d8cbd4e2d"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-api",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-api-1.0.8.zip",
+                    "shasum": "ef094e5a1b3fe66c00cbeb28f2e658ba17e5c826"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-sales": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-api",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-api-1.1.0.zip",
+                    "shasum": "047ab0dfbe2e7da7f1f043d8e063222fc59f5a27"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.1.*",
+                    "magento/module-sales": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-api",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-api-1.2.0.zip",
+                    "shasum": "e130d17d74fac38cc831cca35ba3d175fe904668"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-api",
+                "version": "1.2.0-p1",
+                "version_normalized": "1.2.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-api-1.2.0-p1.zip",
+                    "shasum": "cf82e4530101f174bb8768201f1ff7c75c0d79f0"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.2.1-p1",
+                    "magento/module-sales": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-api",
+                "version": "1.2.0-p2",
+                "version_normalized": "1.2.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-api-1.2.0-p2.zip",
+                    "shasum": "10805f108f8f5dd5590005122a0cf871866ad7be"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-api",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-api-1.2.1.zip",
+                    "shasum": "7618908dffa870644798cf046095e530314c01a9"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-api",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-api-1.2.2.zip",
+                    "shasum": "750800f294128f86d2f03f69f9486f0bbf8f6bbc"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-sales": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

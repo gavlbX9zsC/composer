@@ -1,0 +1,186 @@
+{
+    "packages": {
+        "magento/module-quote-analytics": [
+            {
+                "name": "magento/module-quote-analytics",
+                "version": "100.3.6",
+                "version_normalized": "100.3.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-quote-analytics-100.3.6.zip",
+                    "shasum": "d714e33a5804a8526904e70256d4390d4e393093"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-analytics": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\QuoteAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote-analytics",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-quote-analytics-100.4.0.zip",
+                    "shasum": "4b6af798f672065f21314cefe46e1ada523d50bd"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\QuoteAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote-analytics",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-quote-analytics-100.4.1.zip",
+                    "shasum": "215ce1496ec6e1ed8a1a26e48e3a9bc64dda243f"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\QuoteAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote-analytics",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-quote-analytics-100.4.2.zip",
+                    "shasum": "6ae8ad0c5dd5677480939b9efd92cbd1be3f6fdf"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\QuoteAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote-analytics",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-quote-analytics-100.4.3.zip",
+                    "shasum": "b7407498e521f64b486e1810374ed79c1d3b518a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\QuoteAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-quote-analytics",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-quote-analytics-100.4.4.zip",
+                    "shasum": "c06f3cfdbff71a8cc9b7c8080c105a75e06631fd"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\QuoteAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

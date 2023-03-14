@@ -1,0 +1,118 @@
+{
+    "packages": {
+        "dotmailer/dotmailer-magento2-extension-sms": [
+            {
+                "name": "dotmailer/dotmailer-magento2-extension-sms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/dotmailer-dotmailer-magento2-extension-sms-1.0.0.0.zip",
+                    "shasum": "0aafa7004cd119570c9a78e6ea6983ac5ae16019"
+                },
+                "require": {
+                    "dotmailer/dotmailer-magento2-extension": "^4.10.0",
+                    "magento/framework": ">=101 <104",
+                    "magento/module-backend": ">=100 <103",
+                    "magento/module-checkout": "100.*",
+                    "magento/module-config": ">=100 <103",
+                    "magento/module-customer": ">=100 <104",
+                    "magento/module-directory": "100.*",
+                    "magento/module-quote": ">=100 <103",
+                    "magento/module-sales": ">=100 <104",
+                    "magento/module-shipping": "100.*",
+                    "magento/module-store": ">=100 <102",
+                    "magento/module-ui": ">=100 <102"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Dotdigitalgroup\\Sms\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Engagement Cloud for Magento 2: SMS module"
+            },
+            {
+                "name": "dotmailer/dotmailer-magento2-extension-sms",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/dotmailer-dotmailer-magento2-extension-sms-1.0.1.0.zip",
+                    "shasum": "0e01a1add9a65b3cb3e934cfa14154a4f063f7c1"
+                },
+                "require": {
+                    "dotmailer/dotmailer-magento2-extension": "^4.10.0",
+                    "magento/framework": ">=101 <104",
+                    "magento/module-backend": ">=100 <103",
+                    "magento/module-checkout": "100.*",
+                    "magento/module-config": ">=100 <103",
+                    "magento/module-customer": ">=100 <104",
+                    "magento/module-directory": "100.*",
+                    "magento/module-quote": ">=100 <103",
+                    "magento/module-sales": ">=100 <104",
+                    "magento/module-shipping": "100.*",
+                    "magento/module-store": ">=100 <102",
+                    "magento/module-ui": ">=100 <102"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Dotdigitalgroup\\Sms\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Engagement Cloud for Magento 2: SMS module"
+            },
+            {
+                "name": "dotmailer/dotmailer-magento2-extension-sms",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/dotmailer-dotmailer-magento2-extension-sms-1.2.0.0.zip",
+                    "shasum": "a82386f3dc64211be2f99e848c42bbc5373af5bb"
+                },
+                "require": {
+                    "dotmailer/dotmailer-magento2-extension": "^4.12.0",
+                    "magento/framework": ">=101 <104",
+                    "magento/module-backend": ">=100 <103",
+                    "magento/module-checkout": "100.*",
+                    "magento/module-config": ">=100 <103",
+                    "magento/module-customer": ">=100 <104",
+                    "magento/module-directory": "100.*",
+                    "magento/module-quote": ">=100 <103",
+                    "magento/module-sales": ">=100 <104",
+                    "magento/module-shipping": "100.*",
+                    "magento/module-store": ">=100 <102",
+                    "magento/module-ui": ">=100 <102",
+                    "php": "^7.1"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Dotdigitalgroup\\Sms\\": ""
+                    }
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Engagement Cloud for Magento 2: SMS module"
+            }
+        ]
+    }
+}

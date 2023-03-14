@@ -1,0 +1,342 @@
+{
+    "packages": {
+        "magento/module-graph-ql": [
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.3.6",
+                "version_normalized": "100.3.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.3.6.zip",
+                    "shasum": "4dae66f9def857cc517c1ed7b50bbc15f93b0b7e"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.3.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.3.6-p3",
+                "version_normalized": "100.3.6.0-patch3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.3.6-p3.zip",
+                    "shasum": "8c141d8fd8db8d8cf7f458edfa0ceffe7af08b67"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.3.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.4.0.zip",
+                    "shasum": "18448f56f16e95445da8ac8e2b7e42f3c8077bfc"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.4.1.zip",
+                    "shasum": "116abe31fc6b76a56feb29b523c00c48123a4fe8"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-webapi": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.4.1-p1",
+                "version_normalized": "100.4.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.4.1-p1.zip",
+                    "shasum": "d29b40aa997c1cbf6f4b8c3c5e497db88f0d6cc6"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-webapi": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.4.2.zip",
+                    "shasum": "b4371858c8b0733e9989758a75dd10d1a5c858ee"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-webapi": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.4.3.zip",
+                    "shasum": "ca96b77be3d0870db5d8bb87d2fe6c4c3e9f45e4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-webapi": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.4.3-p2",
+                "version_normalized": "100.4.3.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.4.3-p2.zip",
+                    "shasum": "17974f56d66d06f24deed797e1bf5f0a093c6966"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-webapi": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.4.4.zip",
+                    "shasum": "9241dbb5e73a7387650a551239b528548703433a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-new-relic-reporting": "100.4.*",
+                    "magento/module-webapi": "100.4.*",
+                    "php": "~7.4.0||~8.1.0",
+                    "webonyx/graphql-php": "~14.11.3"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-graph-ql",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-graph-ql-100.4.5.zip",
+                    "shasum": "e0fe569e1715a76c82045ad66f9300a83d2d563c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-new-relic-reporting": "100.4.*",
+                    "magento/module-webapi": "100.4.*",
+                    "php": "~7.4.0||~8.1.0",
+                    "webonyx/graphql-php": "~14.11.5"
+                },
+                "suggest": {
+                    "magento/module-graph-ql-cache": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "packages": {
+        "magento/module-offline-shipping-sample-data": [
+            {
+                "name": "magento/module-offline-shipping-sample-data",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-sample-data-100.3.5.zip",
+                    "shasum": "45f71b4175ee6b4f0d472fec19432dcea68c6b0d"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-offline-shipping": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShippingSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-offline-shipping-sample-data",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-sample-data-100.4.0.zip",
+                    "shasum": "d7ac03acd9e284109b84f96d019f5cec0b7d0ac5"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-offline-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShippingSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-offline-shipping-sample-data",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-offline-shipping-sample-data-100.4.1.zip",
+                    "shasum": "170e4591ccf23cdedde2e3b9dfadfb8128ca11e4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-offline-shipping": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\OfflineShippingSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

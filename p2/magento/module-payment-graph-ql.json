@@ -1,0 +1,39 @@
+{
+    "packages": {
+        "magento/module-payment-graph-ql": [
+            {
+                "name": "magento/module-payment-graph-ql",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-payment-graph-ql-100.4.0.zip",
+                    "shasum": "97078b24d6aa42c2bcdefa2296ebd525abad7751"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-graph-ql": "100.4.*",
+                    "magento/module-payment": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-store-graph-ql": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PaymentGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

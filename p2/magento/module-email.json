@@ -1,0 +1,404 @@
+{
+    "packages": {
+        "magento/module-email": [
+            {
+                "name": "magento/module-email",
+                "version": "101.0.7",
+                "version_normalized": "101.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.0.7.zip",
+                    "shasum": "c0320cdd24bf309ee9275a135410b59305f11144"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-variable": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.0.7-p3",
+                "version_normalized": "101.0.7.0-patch3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.0.7-p3.zip",
+                    "shasum": "7d20b8c2719023af16528f9d5062e3334dba8b81"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme": "101.0.*",
+                    "magento/module-variable": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.1.0",
+                "version_normalized": "101.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.1.0.zip",
+                    "shasum": "e0e743ffb9dee933d456e12b1d954d24f982daa8"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-variable": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.1.0-p1",
+                "version_normalized": "101.1.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.1.0-p1.zip",
+                    "shasum": "a80ce1c02b43d2703edbd78dd5f71f8447d889d3"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-variable": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.1.1",
+                "version_normalized": "101.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.1.1.zip",
+                    "shasum": "3e5c4b46a69071e87a849c455df888bb3a10580c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-variable": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.1.2",
+                "version_normalized": "101.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.1.2.zip",
+                    "shasum": "a880334850b76067a75b26627660c583c434822b"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-variable": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.1.3",
+                "version_normalized": "101.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.1.3.zip",
+                    "shasum": "35e77e25f71c80432cc61d0f91c8870240ca2cff"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-variable": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.1.3-p2",
+                "version_normalized": "101.1.3.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.1.3-p2.zip",
+                    "shasum": "8471a2367c7e6bd62353dca3781d9c7cc4f9c61a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-variable": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.1.4",
+                "version_normalized": "101.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.1.4.zip",
+                    "shasum": "016ac4f39f3c6e006f7d30c4b2a617646b242085"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-variable": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-email",
+                "version": "101.1.5",
+                "version_normalized": "101.1.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-email-101.1.5.zip",
+                    "shasum": "8489d43f07060f91b3f41822248440a1ce3303c5"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-variable": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Email\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

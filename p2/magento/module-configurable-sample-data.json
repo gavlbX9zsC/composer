@@ -1,0 +1,111 @@
+{
+    "packages": {
+        "magento/module-configurable-sample-data": [
+            {
+                "name": "magento/module-configurable-sample-data",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-sample-data-100.3.5.zip",
+                    "shasum": "9bb5c9174aca22440e32fe0b4c245dfcac13b4c1"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-sample-data": "100.3.*",
+                    "magento/module-configurable-product": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-import-export": "100.3.*",
+                    "magento/module-indexer": "100.3.*",
+                    "magento/module-product-links-sample-data": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-sample-data",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-sample-data-100.4.0.zip",
+                    "shasum": "bd931e9692874ff61fd28cfea1b128f0e1b4a2e4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-sample-data": "100.4.*",
+                    "magento/module-configurable-product": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-import-export": "101.0.*",
+                    "magento/module-indexer": "100.4.*",
+                    "magento/module-product-links-sample-data": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-sample-data",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-sample-data-100.4.1.zip",
+                    "shasum": "54dd9338929f9c70b054cd05d7b7dbdebeb67da9"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-sample-data": "100.4.*",
+                    "magento/module-configurable-product": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-import-export": "101.0.*",
+                    "magento/module-indexer": "100.4.*",
+                    "magento/module-product-links-sample-data": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

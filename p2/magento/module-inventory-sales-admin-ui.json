@@ -1,0 +1,354 @@
+{
+    "packages": {
+        "magento/module-inventory-sales-admin-ui": [
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.0.8.zip",
+                    "shasum": "f8e685bfc2d02106c7379a7b230622781a1692c8"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.0.9.zip",
+                    "shasum": "0f04c4c4053651d59e13e39f506f71379284901a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.0.*",
+                    "magento/module-inventory-api": "1.0.*",
+                    "magento/module-inventory-catalog-api": "1.1.*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.1.0.zip",
+                    "shasum": "01970d3c586306677a14f15424034ff6e55f4202"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.1.*",
+                    "magento/module-inventory-api": "1.1.*",
+                    "magento/module-inventory-catalog-api": "1.2.*",
+                    "magento/module-inventory-configuration-api": "1.1.*",
+                    "magento/module-inventory-sales-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.2.0.zip",
+                    "shasum": "773fb2e557f824e941117b40bb322f99a26c2764"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.2.1.zip",
+                    "shasum": "744e2e923ddffb1896969048789c087a325b0e27"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.2.1-p1",
+                "version_normalized": "1.2.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.2.1-p1.zip",
+                    "shasum": "d5402c54c636d70ed3176e70f821c051bcf3047c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.2.1-p1",
+                    "magento/module-inventory-api": "1.2.1-p1",
+                    "magento/module-inventory-catalog-api": "1.3.1-p1",
+                    "magento/module-inventory-configuration-api": "1.2.0-p1",
+                    "magento/module-inventory-sales-api": "1.2.0-p1",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.2.1-p2",
+                "version_normalized": "1.2.1.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.2.1-p2.zip",
+                    "shasum": "6aa85cbb47986c9fe897916adbfb1a6224ea614a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.2.2.zip",
+                    "shasum": "a85d8cb32e0fdaed8b86168945b5eb21cdc301d7"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-sales": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-sales-admin-ui",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-sales-admin-ui-1.2.3.zip",
+                    "shasum": "ffcc6ecda3d3f9f72a2d4f49d726bce7cb8bd758"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-catalog-inventory": "*",
+                    "magento/module-inventory-admin-ui": "1.2.*",
+                    "magento/module-inventory-api": "1.2.*",
+                    "magento/module-inventory-catalog-api": "1.3.*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-sales": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventorySalesAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

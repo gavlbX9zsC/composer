@@ -1,0 +1,142 @@
+{
+    "packages": {
+        "magento/module-amqp-store": [
+            {
+                "name": "magento/module-amqp-store",
+                "version": "100.3.2",
+                "version_normalized": "100.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-amqp-store-100.3.2.zip",
+                    "shasum": "6f3436f628b69cf535c0048f59250b542677c3c6"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/framework-amqp": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/framework-message-queue": "100.3.*",
+                    "magento/module-asynchronous-operations": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AmqpStore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-amqp-store",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-amqp-store-100.4.0.zip",
+                    "shasum": "3d32aab3242a1f1a887f01dddd604617391d9ac5"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-amqp": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-asynchronous-operations": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AmqpStore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-amqp-store",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-amqp-store-100.4.1.zip",
+                    "shasum": "380e819a4457af736bd4b549f0bd84b75ca290ff"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-amqp": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-asynchronous-operations": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AmqpStore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-amqp-store",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-amqp-store-100.4.2.zip",
+                    "shasum": "ee0e8a474eb13d8ca8e7587d9d9155b5ac7bfe02"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-amqp": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-asynchronous-operations": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AmqpStore\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "packages": {
+        "magento/module-inventory-in-store-pickup-quote-graph-ql": [
+            {
+                "name": "magento/module-inventory-in-store-pickup-quote-graph-ql",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-quote-graph-ql-1.0.0.zip",
+                    "shasum": "bb6120434cbf6f80d7826ee7d21c1f2961cc9aff"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-graph-ql": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-quote-graph-ql",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-quote-graph-ql-1.1.0.zip",
+                    "shasum": "6bac5c8835398206187b6c63b34702e85e5c571b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-graph-ql": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-quote-graph-ql",
+                "version": "1.1.0-p1",
+                "version_normalized": "1.1.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-quote-graph-ql-1.1.0-p1.zip",
+                    "shasum": "02aea216dac314a7a80a5f63ae783bfebfe1d465"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-graph-ql": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-quote-graph-ql",
+                "version": "1.1.0-p2",
+                "version_normalized": "1.1.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-quote-graph-ql-1.1.0-p2.zip",
+                    "shasum": "38f47ec05889a66b063a12b61a938e38804cad63"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-graph-ql": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-quote-graph-ql",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-quote-graph-ql-1.1.1.zip",
+                    "shasum": "2fd3871cdd7bebc3389b0fc921f880499d85be2b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-graph-ql": "*",
+                    "magento/module-quote": "*",
+                    "magento/module-quote-graph-ql": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupQuoteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

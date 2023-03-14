@@ -1,0 +1,130 @@
+{
+    "packages": {
+        "magento/module-media-content-synchronization-cms": [
+            {
+                "name": "magento/module-media-content-synchronization-cms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-synchronization-cms-1.0.0.zip",
+                    "shasum": "606beccff5bc981ce6876621fbf5af552d93705b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-media-content-api": "*",
+                    "magento/module-media-content-synchronization-api": "1.0.*",
+                    "magento/module-media-gallery-synchronization-api": "1.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentSynchronizationCms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContentSynchronization functionality for Magento_Cms module"
+            },
+            {
+                "name": "magento/module-media-content-synchronization-cms",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-synchronization-cms-100.4.0.zip",
+                    "shasum": "d92149014c2485668803dd833d1cd257f13e32ce"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-content-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentSynchronizationCms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContentSynchronization functionality for Magento_Cms module"
+            },
+            {
+                "name": "magento/module-media-content-synchronization-cms",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-synchronization-cms-100.4.1.zip",
+                    "shasum": "b43d70ccd5a024fa0201e62472737eeedf5328d3"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-content-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentSynchronizationCms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContentSynchronization functionality for Magento_Cms module"
+            },
+            {
+                "name": "magento/module-media-content-synchronization-cms",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-synchronization-cms-100.4.2.zip",
+                    "shasum": "a9a1a226f814332bdf39a7def64b11fb2b36e5a4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "magento/module-media-content-synchronization-api": "100.4.*",
+                    "magento/module-media-gallery-synchronization-api": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentSynchronizationCms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContentSynchronization functionality for Magento_Cms module"
+            }
+        ]
+    }
+}

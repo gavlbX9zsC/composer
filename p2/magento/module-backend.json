@@ -1,0 +1,486 @@
+{
+    "packages": {
+        "magento/module-backend": [
+            {
+                "name": "magento/module-backend",
+                "version": "101.0.7",
+                "version_normalized": "101.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-101.0.7.zip",
+                    "shasum": "30c6f120662c18ace498871eb15bb8138cce406f"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backup": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-config": "101.1.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-developer": "100.3.*",
+                    "magento/module-directory": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-reports": "100.3.*",
+                    "magento/module-require-js": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-security": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-translation": "100.3.*",
+                    "magento/module-ui": "101.1.*",
+                    "magento/module-user": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.0",
+                "version_normalized": "102.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.0.zip",
+                    "shasum": "d4acc9bce7eeba0a1ad59e8affb23d5a434b9d4e"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.0-p1",
+                "version_normalized": "102.0.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.0-p1.zip",
+                    "shasum": "68f8b048fb5a87d72d5a2a9dcc61d7fd316738fa"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.1",
+                "version_normalized": "102.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.1.zip",
+                    "shasum": "de2378e0766366c4e3378a824a76e703382b92ee"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.1-p1",
+                "version_normalized": "102.0.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.1-p1.zip",
+                    "shasum": "6e353ed20ac7afb6eaef7d5d890447224a4fda6d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.2",
+                "version_normalized": "102.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.2.zip",
+                    "shasum": "c38b72e8348aa8c363f31915f0e06ed0b56e33d4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php",
+                        "cli_commands.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.2-p2",
+                "version_normalized": "102.0.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.2-p2.zip",
+                    "shasum": "ef94c91c7ca5322329ac80b980f6ab7945dabd78"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php",
+                        "cli_commands.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.3",
+                "version_normalized": "102.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.3.zip",
+                    "shasum": "bf74159a31c3d250a39ade3483c8c44372bee631"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php",
+                        "cli_commands.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.4",
+                "version_normalized": "102.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.4.zip",
+                    "shasum": "56c6dadb04017847f417d41e82f4da18cb6cd1e2"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php",
+                        "cli_commands.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-backend",
+                "version": "102.0.5",
+                "version_normalized": "102.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-backend-102.0.5.zip",
+                    "shasum": "70a40bbe7af614ef5280cc948cdd286f37576e8a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backup": "100.4.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-developer": "100.4.*",
+                    "magento/module-directory": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-reports": "100.4.*",
+                    "magento/module-require-js": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-security": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-translation": "100.4.*",
+                    "magento/module-ui": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-theme": "101.1.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php",
+                        "cli_commands.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Backend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

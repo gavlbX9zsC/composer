@@ -1,0 +1,264 @@
+{
+    "packages": {
+        "magento/module-asynchronous-operations": [
+            {
+                "name": "magento/module-asynchronous-operations",
+                "version": "100.3.7",
+                "version_normalized": "100.3.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-asynchronous-operations-100.3.7.zip",
+                    "shasum": "e046fcd3bb53c562e68e5cd4f3f330ac8d6c7e50"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/framework-bulk": "100.3.*",
+                    "magento/module-authorization": "100.3.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-admin-notification": "100.3.*",
+                    "magento/module-logging": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AsynchronousOperations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-asynchronous-operations",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-asynchronous-operations-100.4.0.zip",
+                    "shasum": "31dddc371a146a1bbe82675d09f7fa48fe8d6e95"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-admin-notification": "100.4.*",
+                    "magento/module-logging": "101.2.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AsynchronousOperations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-asynchronous-operations",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-asynchronous-operations-100.4.1.zip",
+                    "shasum": "308df35b4765fae0ffbd056da12f7b08f6f46e39"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-admin-notification": "100.4.*",
+                    "magento/module-logging": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AsynchronousOperations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-asynchronous-operations",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-asynchronous-operations-100.4.2.zip",
+                    "shasum": "fedc2ddb52239d7db313d065b9aa6ccf9371c444"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-admin-notification": "100.4.*",
+                    "magento/module-logging": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AsynchronousOperations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-asynchronous-operations",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-asynchronous-operations-100.4.3.zip",
+                    "shasum": "4fbec57efe1c1c7a7c1c339884aca3821759b81c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-admin-notification": "100.4.*",
+                    "magento/module-logging": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AsynchronousOperations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-asynchronous-operations",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-asynchronous-operations-100.4.4.zip",
+                    "shasum": "f6aa2024f3e7ab93f9ae29c6450a2d2fa47579d9"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-admin-notification": "100.4.*",
+                    "magento/module-logging": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AsynchronousOperations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-asynchronous-operations",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-asynchronous-operations-100.4.5.zip",
+                    "shasum": "dafd0bf76bdd1413d12a0bcfea68ed23baf4f2be"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-bulk": "101.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-admin-notification": "100.4.*",
+                    "magento/module-logging": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AsynchronousOperations\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

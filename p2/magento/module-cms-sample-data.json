@@ -1,0 +1,108 @@
+{
+    "packages": {
+        "magento/module-cms-sample-data": [
+            {
+                "name": "magento/module-cms-sample-data",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-cms-sample-data-100.3.5.zip",
+                    "shasum": "09ebbb78f346d7dfa0e2684229f832835cbcce52"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-sample-data": "100.3.*",
+                    "magento/module-cms": "103.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-theme-sample-data": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CmsSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cms-sample-data",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-cms-sample-data-100.4.0.zip",
+                    "shasum": "0041bc2354686f9eda189848c320bcda5dc51578"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-sample-data": "100.4.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme-sample-data": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CmsSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cms-sample-data",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-cms-sample-data-100.4.1.zip",
+                    "shasum": "1adf11b6a0fff58cd46f8fcda12d7b419e5316ec"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-sample-data": "100.4.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-theme-sample-data": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CmsSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

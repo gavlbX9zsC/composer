@@ -1,0 +1,46 @@
+{
+    "packages": {
+        "magento/sample-data-media": [
+            {
+                "name": "magento/sample-data-media",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/sample-data-media-100.3.4.zip",
+                    "shasum": "ad9303a6e1f9e742e220e7ba3f565fa1ac2a555e"
+                },
+                "type": "magento2-component",
+                "extra": {
+                    "map": [
+                        [
+                            "*",
+                            "pub/media"
+                        ]
+                    ]
+                },
+                "description": "Sample Data media files"
+            },
+            {
+                "name": "magento/sample-data-media",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/sample-data-media-100.4.0.zip",
+                    "shasum": "ca819f963e8fcb21b93244c189bc32c56d57fdd1"
+                },
+                "type": "magento2-component",
+                "extra": {
+                    "map": [
+                        [
+                            "*",
+                            "pub/media"
+                        ]
+                    ]
+                },
+                "description": "Sample Data media files"
+            }
+        ]
+    }
+}

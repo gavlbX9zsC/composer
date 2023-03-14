@@ -1,0 +1,151 @@
+{
+    "packages": {
+        "magento/module-cache-invalidate": [
+            {
+                "name": "magento/module-cache-invalidate",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-cache-invalidate-100.3.5.zip",
+                    "shasum": "2a7406b8963a75198bc72bebcb55fe62bd4ec241"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-page-cache": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CacheInvalidate\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cache-invalidate",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-cache-invalidate-100.4.0.zip",
+                    "shasum": "7640e3cf5eb6f5d8e708b80134d248cac907128a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CacheInvalidate\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cache-invalidate",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-cache-invalidate-100.4.1.zip",
+                    "shasum": "c4799747473eb483f4f4b6d5b970a1e40b58fd25"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CacheInvalidate\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cache-invalidate",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-cache-invalidate-100.4.2.zip",
+                    "shasum": "4d7d415b7df604f04b4cb9193d491d43b28555c3"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CacheInvalidate\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-cache-invalidate",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-cache-invalidate-100.4.3.zip",
+                    "shasum": "970a7e3cfaaf6298f2171402e55f80805695d7fb"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-page-cache": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CacheInvalidate\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

@@ -1,0 +1,198 @@
+{
+    "packages": {
+        "magento/module-url-rewrite-graph-ql": [
+            {
+                "name": "magento/module-url-rewrite-graph-ql",
+                "version": "100.3.7",
+                "version_normalized": "100.3.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-url-rewrite-graph-ql-100.3.7.zip",
+                    "shasum": "078812820075bbcffc680fb491d7ddeef08d0ea5"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-url-rewrite": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\UrlRewriteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-url-rewrite-graph-ql",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-url-rewrite-graph-ql-100.4.0.zip",
+                    "shasum": "23bb02d221aea0a030e8d5f26f6d34dd0fb579cf"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-url-rewrite": "102.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\UrlRewriteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-url-rewrite-graph-ql",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-url-rewrite-graph-ql-100.4.1.zip",
+                    "shasum": "b2fa0262d06f81f66eaa3a6798fe0fee30e10e04"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-url-rewrite": "102.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\UrlRewriteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-url-rewrite-graph-ql",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-url-rewrite-graph-ql-100.4.2.zip",
+                    "shasum": "a6a2dabcaff9a781a5427973f79dfe6fa5dc35c0"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-url-rewrite": "102.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\UrlRewriteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-url-rewrite-graph-ql",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-url-rewrite-graph-ql-100.4.3.zip",
+                    "shasum": "48b85cd67927076dd9c0dcdd211a8327cd3bf3ed"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-url-rewrite": "102.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\UrlRewriteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-url-rewrite-graph-ql",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-url-rewrite-graph-ql-100.4.4.zip",
+                    "shasum": "fd4149f54ee316868f41611dddd76c85d5f38343"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-url-rewrite": "102.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-graph-ql": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\UrlRewriteGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

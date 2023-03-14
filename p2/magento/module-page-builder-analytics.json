@@ -1,0 +1,151 @@
+{
+    "packages": {
+        "magento/module-page-builder-analytics": [
+            {
+                "name": "magento/module-page-builder-analytics",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-page-builder-analytics-1.6.1.zip",
+                    "shasum": "ae59d9c455ffc301be70dbc6344f266baaf58c1c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-analytics": "*",
+                    "magento/module-page-builder": "2.2.1",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PageBuilderAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Builder Analytics module"
+            },
+            {
+                "name": "magento/module-page-builder-analytics",
+                "version": "1.6.1-p1",
+                "version_normalized": "1.6.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-page-builder-analytics-1.6.1-p1.zip",
+                    "shasum": "d7c44c1fc4ecd93bcf1473fce3f6c701e924bdf0"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-analytics": "*",
+                    "magento/module-page-builder": "2.2.1-p1",
+                    "php": "~7.4.0||~8.0.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PageBuilderAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Builder Analytics module"
+            },
+            {
+                "name": "magento/module-page-builder-analytics",
+                "version": "1.6.1-p2",
+                "version_normalized": "1.6.1.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-page-builder-analytics-1.6.1-p2.zip",
+                    "shasum": "5132688a05d2690dbb820dd8682bd64e0b32de41"
+                },
+                "require": {
+                    "magento/framework": "103.0.3-p2",
+                    "magento/module-analytics": "100.4.3",
+                    "magento/module-page-builder": "2.2.1-p2",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PageBuilderAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Builder Analytics module"
+            },
+            {
+                "name": "magento/module-page-builder-analytics",
+                "version": "1.6.1-p3",
+                "version_normalized": "1.6.1.0-patch3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-page-builder-analytics-1.6.1-p3.zip",
+                    "shasum": "5d23d2e40b78ccf8d8aaecfddf5edc6be6bb6344"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-page-builder": "2.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PageBuilderAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Builder Analytics module"
+            },
+            {
+                "name": "magento/module-page-builder-analytics",
+                "version": "1.6.2",
+                "version_normalized": "1.6.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-page-builder-analytics-1.6.2.zip",
+                    "shasum": "2f4967d2e652896439bec9b80fff31ff45c30a57"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-analytics": "100.4.*",
+                    "magento/module-page-builder": "2.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\PageBuilderAnalytics\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Page Builder Analytics module"
+            }
+        ]
+    }
+}

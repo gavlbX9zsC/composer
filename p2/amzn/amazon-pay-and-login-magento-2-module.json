@@ -1,0 +1,151 @@
+{
+    "packages": {
+        "amzn/amazon-pay-and-login-magento-2-module": [
+            {
+                "name": "amzn/amazon-pay-and-login-magento-2-module",
+                "version": "3.9.2",
+                "version_normalized": "3.9.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/amzn-amazon-pay-and-login-magento-2-module-3.9.2.0.zip",
+                    "shasum": "a372068021ff878de2188ebd7f7ab154a692f8e8"
+                },
+                "require": {
+                    "amzn/amazon-pay-and-login-with-amazon-core-module": "3.9.2",
+                    "amzn/amazon-pay-module": "3.9.2",
+                    "amzn/login-with-amazon-module": "3.9.2"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Official Magento2 Plugin to integrate with Amazon Pay and Login with Amazon",
+                "abandoned": "amzn/amazon-pay-magento-2-module"
+            },
+            {
+                "name": "amzn/amazon-pay-and-login-magento-2-module",
+                "version": "4.0.2",
+                "version_normalized": "4.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/amzn-amazon-pay-and-login-magento-2-module-4.0.2.0.zip",
+                    "shasum": "1fb726b3424fe9f006dfb6442df5fbb25bbc0053"
+                },
+                "require": {
+                    "amzn/amazon-pay-and-login-with-amazon-core-module": "4.0.2",
+                    "amzn/amazon-pay-module": "4.0.2",
+                    "amzn/login-with-amazon-module": "4.0.2"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Official Magento2 Plugin to integrate with Amazon Pay and Login with Amazon"
+            },
+            {
+                "name": "amzn/amazon-pay-and-login-magento-2-module",
+                "version": "4.0.4",
+                "version_normalized": "4.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/amzn-amazon-pay-and-login-magento-2-module-4.0.4.0.zip",
+                    "shasum": "f2fd46eae1287b3a870981c6db98ad6faaed77be"
+                },
+                "require": {
+                    "amzn/amazon-pay-and-login-with-amazon-core-module": "4.0.4",
+                    "amzn/amazon-pay-module": "4.0.4",
+                    "amzn/login-with-amazon-module": "4.0.4"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Official Magento2 Plugin to integrate with Amazon Pay and Login with Amazon"
+            },
+            {
+                "name": "amzn/amazon-pay-and-login-magento-2-module",
+                "version": "4.2.0",
+                "version_normalized": "4.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/amzn-amazon-pay-and-login-magento-2-module-4.2.0.0.zip",
+                    "shasum": "1e339b78bed63a33ae7fdbf013c50872aafa8eaa"
+                },
+                "require": {
+                    "amzn/amazon-pay-and-login-with-amazon-core-module": "4.2.0",
+                    "amzn/amazon-pay-module": "4.2.0",
+                    "amzn/login-with-amazon-module": "4.2.0"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Official Magento2 Plugin to integrate with Amazon Pay and Login with Amazon",
+                "abandoned": "amzn/amazon-pay-v2-magento-2-module"
+            },
+            {
+                "name": "amzn/amazon-pay-and-login-magento-2-module",
+                "version": "4.2.0-p1",
+                "version_normalized": "4.2.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/amzn-amazon-pay-and-login-magento-2-module-4.2.0.0-patch1.zip",
+                    "shasum": "256496e7c6347d07c9a018b568165cd44bdeec52"
+                },
+                "require": {
+                    "amzn/amazon-pay-and-login-with-amazon-core-module": "4.2.0-p1",
+                    "amzn/amazon-pay-module": "4.2.0-p1",
+                    "amzn/login-with-amazon-module": "4.2.0-p1"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Official Magento2 Plugin to integrate with Amazon Pay and Login with Amazon",
+                "abandoned": "amzn/amazon-pay-magento-2-module"
+            },
+            {
+                "name": "amzn/amazon-pay-and-login-magento-2-module",
+                "version": "4.2.1",
+                "version_normalized": "4.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/amzn-amazon-pay-and-login-magento-2-module-4.2.1.0.zip",
+                    "shasum": "413da6f191c2e88cde672c4c1a4b01c56c177da8"
+                },
+                "require": {
+                    "amzn/amazon-pay-and-login-with-amazon-core-module": "4.2.1",
+                    "amzn/amazon-pay-module": "4.2.1",
+                    "amzn/login-with-amazon-module": "4.2.1"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Official Magento2 Plugin to integrate with Amazon Pay and Login with Amazon",
+                "abandoned": "amzn/amazon-pay-magento-2-module"
+            },
+            {
+                "name": "amzn/amazon-pay-and-login-magento-2-module",
+                "version": "4.2.2",
+                "version_normalized": "4.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/amzn-amazon-pay-and-login-magento-2-module-4.2.2.0.zip",
+                    "shasum": "f9c3104b2ab9b2e6dcde2f39f3e81d94ef698e2a"
+                },
+                "require": {
+                    "amzn/amazon-pay-and-login-with-amazon-core-module": "4.2.2",
+                    "amzn/amazon-pay-module": "4.2.2",
+                    "amzn/login-with-amazon-module": "4.2.2"
+                },
+                "type": "metapackage",
+                "license": [
+                    "Apache-2.0"
+                ],
+                "description": "Official Magento2 Plugin to integrate with Amazon Pay and Login with Amazon",
+                "abandoned": "amzn/amazon-pay-magento-2-module"
+            }
+        ]
+    }
+}

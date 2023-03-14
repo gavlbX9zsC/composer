@@ -1,0 +1,114 @@
+{
+    "packages": {
+        "magento/module-securitytxt": [
+            {
+                "name": "magento/module-securitytxt",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-securitytxt-1.0.0.zip",
+                    "shasum": "b8b7b593033fdae364bb3c005e5d5d61aa1c88cc"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-config": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Securitytxt\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kalpesh Mehta",
+                        "email": "k@lpe.sh"
+                    }
+                ],
+                "description": "Security.txt file for Magento 2 websites"
+            },
+            {
+                "name": "magento/module-securitytxt",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-securitytxt-1.1.0.zip",
+                    "shasum": "9d1a4f86b206999d0b85f90eee526bf74cbd551c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-config": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Securitytxt\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Kalpesh Mehta",
+                        "email": "k@lpe.sh"
+                    }
+                ],
+                "description": "Security.txt file for Magento 2 websites"
+            },
+            {
+                "name": "magento/module-securitytxt",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-securitytxt-1.1.1.zip",
+                    "shasum": "4394fef44a3e4bd98d535566cd424ad52bb21327"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-config": "*",
+                    "magento/module-store": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\Securitytxt\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "authors": [
+                    {
+                        "email": "k@lpe.sh",
+                        "name": "Kalpesh Mehta"
+                    }
+                ],
+                "description": "Security.txt file for Magento 2 websites"
+            }
+        ]
+    }
+}

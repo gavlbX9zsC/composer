@@ -1,0 +1,186 @@
+{
+    "packages": {
+        "magento/page-builder": [
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.0.zip",
+                    "shasum": "02bba182a46aa5a615aa2f46b19c67c6ec87b70d"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.1",
+                    "magento/module-catalog-page-builder-analytics": "1.6.1",
+                    "magento/module-cms-page-builder-analytics": "1.6.1",
+                    "magento/module-page-builder": "2.2.1",
+                    "magento/module-page-builder-admin-analytics": "1.1.1",
+                    "magento/module-page-builder-analytics": "1.6.1"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            },
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.0-p1",
+                "version_normalized": "1.7.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.0-p1.zip",
+                    "shasum": "eca2b587f80a3f77da1928c130e69bac98cad1e4"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.1-p1",
+                    "magento/module-catalog-page-builder-analytics": "1.6.1-p1",
+                    "magento/module-cms-page-builder-analytics": "1.6.1-p1",
+                    "magento/module-page-builder": "2.2.1-p1",
+                    "magento/module-page-builder-admin-analytics": "1.1.1-p1",
+                    "magento/module-page-builder-analytics": "1.6.1-p1"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            },
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.0-p2",
+                "version_normalized": "1.7.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.0-p2.zip",
+                    "shasum": "054086f2cc58e5ad0db33dcc10301dd28f4aa88a"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.1-p2",
+                    "magento/module-catalog-page-builder-analytics": "1.6.1-p2",
+                    "magento/module-cms-page-builder-analytics": "1.6.1-p2",
+                    "magento/module-page-builder": "2.2.1-p2",
+                    "magento/module-page-builder-admin-analytics": "1.1.1-p2",
+                    "magento/module-page-builder-analytics": "1.6.1-p2"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            },
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.0-p3",
+                "version_normalized": "1.7.0.0-patch3",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.0-p3.zip",
+                    "shasum": "b0a4c3d1399eb6c829a44ca0295389012056e138"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.1-p3",
+                    "magento/module-catalog-page-builder-analytics": "1.6.1-p3",
+                    "magento/module-cms-page-builder-analytics": "1.6.1-p3",
+                    "magento/module-page-builder": "2.2.1-p3",
+                    "magento/module-page-builder-admin-analytics": "1.1.1-p3",
+                    "magento/module-page-builder-analytics": "1.6.1-p3"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            },
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.1",
+                "version_normalized": "1.7.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.1.zip",
+                    "shasum": "5cf4c22e4c129cf90f6c22fa6c85870e056caa7a"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.*",
+                    "magento/module-catalog-page-builder-analytics": "1.6.*",
+                    "magento/module-cms-page-builder-analytics": "1.6.*",
+                    "magento/module-page-builder": "2.2.*",
+                    "magento/module-page-builder-admin-analytics": "1.1.*",
+                    "magento/module-page-builder-analytics": "1.6.*"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            },
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.1-p1",
+                "version_normalized": "1.7.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.1-p1.zip",
+                    "shasum": "338a2342e111b5f8b1712028096a67ef53978e9b"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.2",
+                    "magento/module-catalog-page-builder-analytics": "1.6.2",
+                    "magento/module-cms-page-builder-analytics": "1.6.2",
+                    "magento/module-page-builder": "2.2.2",
+                    "magento/module-page-builder-admin-analytics": "1.1.2",
+                    "magento/module-page-builder-analytics": "1.6.2"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            },
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.1-p2",
+                "version_normalized": "1.7.1.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.1-p2.zip",
+                    "shasum": "d9bd80adefff9c8efa8978ecb247560fdaee5fd3"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.2",
+                    "magento/module-catalog-page-builder-analytics": "1.6.2",
+                    "magento/module-cms-page-builder-analytics": "1.6.2",
+                    "magento/module-page-builder": "2.2.2-p2",
+                    "magento/module-page-builder-admin-analytics": "1.1.2",
+                    "magento/module-page-builder-analytics": "1.6.2"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            },
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.2.zip",
+                    "shasum": "aaa37f59d3848a1f3e9ff7c1a4bcbf7568a8dd15"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.2",
+                    "magento/module-catalog-page-builder-analytics": "1.6.2",
+                    "magento/module-cms-page-builder-analytics": "1.6.2",
+                    "magento/module-page-builder": "2.2.3",
+                    "magento/module-page-builder-admin-analytics": "1.1.2",
+                    "magento/module-page-builder-analytics": "1.6.2"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            },
+            {
+                "name": "magento/page-builder",
+                "version": "1.7.2-p1",
+                "version_normalized": "1.7.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/page-builder-1.7.2-p1.zip",
+                    "shasum": "c344ae9f249d532c55e0ea4a43aa027a5e11604b"
+                },
+                "require": {
+                    "magento/module-aws-s3-page-builder": "1.0.2",
+                    "magento/module-catalog-page-builder-analytics": "1.6.2",
+                    "magento/module-cms-page-builder-analytics": "1.6.2",
+                    "magento/module-page-builder": "2.2.3-p1",
+                    "magento/module-page-builder-admin-analytics": "1.1.2",
+                    "magento/module-page-builder-analytics": "1.6.2"
+                },
+                "type": "metapackage",
+                "description": "Page Builder metapackage"
+            }
+        ]
+    }
+}

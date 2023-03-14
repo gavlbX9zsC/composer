@@ -1,0 +1,54 @@
+{
+    "packages": {
+        "magento/language-nl_nl": [
+            {
+                "name": "magento/language-nl_nl",
+                "version": "100.3.4",
+                "version_normalized": "100.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/language-nl_nl-100.3.4.zip",
+                    "shasum": "ef46482f6bbefc298f8e7fd9190579b2bb8bcdfb"
+                },
+                "require": {
+                    "magento/framework": "102.0.*"
+                },
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Dutch (Netherlands) language"
+            },
+            {
+                "name": "magento/language-nl_nl",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/language-nl_nl-100.4.0.zip",
+                    "shasum": "79b894db6f0b39f0e682f6b0429c7c4d91ee965c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*"
+                },
+                "type": "magento2-language",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ]
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Dutch (Netherlands) language"
+            }
+        ]
+    }
+}

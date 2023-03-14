@@ -1,0 +1,279 @@
+{
+    "packages": {
+        "magento/module-catalog-rule": [
+            {
+                "name": "magento/module-catalog-rule",
+                "version": "101.1.7",
+                "version_normalized": "101.1.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-rule-101.1.7.zip",
+                    "shasum": "be1a20b76a01a833bca8d49765b7f730a5f524bc"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-rule": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-import-export": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule",
+                "version": "101.2.0",
+                "version_normalized": "101.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-rule-101.2.0.zip",
+                    "shasum": "1c31e3c0d6323e215d43a1347cab06109bfb7afe"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-rule": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule",
+                "version": "101.2.1",
+                "version_normalized": "101.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-rule-101.2.1.zip",
+                    "shasum": "1618b7410d3b717800fcc5fc83a003f433d5d41f"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-rule": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule",
+                "version": "101.2.2",
+                "version_normalized": "101.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-rule-101.2.2.zip",
+                    "shasum": "4b0c87f881583f6293364bf08aaaff94752df0e8"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-rule": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule",
+                "version": "101.2.3",
+                "version_normalized": "101.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-rule-101.2.3.zip",
+                    "shasum": "f61059e8c67d2faa9ae2612c4435852e63b076c6"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-rule": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule",
+                "version": "101.2.4",
+                "version_normalized": "101.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-rule-101.2.4.zip",
+                    "shasum": "0bb33b0b6c7ed4bde996c229b553010bcfdae7f1"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-rule": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-catalog-rule",
+                "version": "101.2.5",
+                "version_normalized": "101.2.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-catalog-rule-101.2.5.zip",
+                    "shasum": "011189ecf9eb7418f2ea92e4754c6c16b35234e2"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-rule": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-catalog-rule-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-import-export": "101.0.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\CatalogRule\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

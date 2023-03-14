@@ -1,0 +1,126 @@
+{
+    "packages": {
+        "magento/module-media-content-cms": [
+            {
+                "name": "magento/module-media-content-cms",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-cms-100.4.0.zip",
+                    "shasum": "f759b6eb0eb4c947f7e95aa964d5afb692026020"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentCms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContent functionality for Magento_Cms module"
+            },
+            {
+                "name": "magento/module-media-content-cms",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-cms-100.4.1.zip",
+                    "shasum": "7f3457dab2fa065bd9848714bd9ac6efad71fca7"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentCms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContent functionality for Magento_Cms module"
+            },
+            {
+                "name": "magento/module-media-content-cms",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-cms-100.4.2.zip",
+                    "shasum": "c915411eff44bb896540bbf89d4175b0c8828c8c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentCms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContent functionality for Magento_Cms module"
+            },
+            {
+                "name": "magento/module-media-content-cms",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-content-cms-100.4.3.zip",
+                    "shasum": "50bd4e9c9f9490ed2b55f311167e3a26c96c07b2"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-cms": "104.0.*",
+                    "magento/module-media-content-api": "100.4.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaContentCms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module provides the implementation of MediaContent functionality for Magento_Cms module"
+            }
+        ]
+    }
+}

@@ -1,0 +1,166 @@
+{
+    "packages": {
+        "magento/module-inventory-wishlist": [
+            {
+                "name": "magento/module-inventory-wishlist",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-wishlist-1.0.0.zip",
+                    "shasum": "99d8f9456e7b71b9ec06c06b3a7863e5320ff47e"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-wishlist": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryWishlist\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-wishlist",
+                "version": "1.0.0-p1",
+                "version_normalized": "1.0.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-wishlist-1.0.0-p1.zip",
+                    "shasum": "2df2f71614b046808ed9c2922461c0082984bdbf"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-inventory": "1.2.1-p1",
+                    "magento/module-wishlist": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryWishlist\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-wishlist",
+                "version": "1.0.0-p2",
+                "version_normalized": "1.0.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-wishlist-1.0.0-p2.zip",
+                    "shasum": "c541eddcd281bd7ffa778181b16677ad7ad2266e"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-wishlist": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryWishlist\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-wishlist",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-wishlist-1.0.1.zip",
+                    "shasum": "acb06f070894cac974c4553dff5ef21edd569595"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-wishlist": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryWishlist\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-wishlist",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-wishlist-1.0.2.zip",
+                    "shasum": "c6adc2259fb6652064c95229f9b732a7e22a7fd3"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-inventory": "1.2.*",
+                    "magento/module-wishlist": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryWishlist\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

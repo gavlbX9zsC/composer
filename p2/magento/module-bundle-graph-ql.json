@@ -1,0 +1,256 @@
+{
+    "packages": {
+        "magento/module-bundle-graph-ql": [
+            {
+                "name": "magento/module-bundle-graph-ql",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-graph-ql-100.3.5.zip",
+                    "shasum": "b996eed1b865c047a534635dde84d23b80233639"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-bundle": "100.3.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-graph-ql": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-quote-graph-ql": "100.3.*",
+                    "magento/module-store": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle-graph-ql",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-graph-ql-100.4.0.zip",
+                    "shasum": "f39a8d5ca016028a18affbc518ade996d0e1097f"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-bundle": "101.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle-graph-ql",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-graph-ql-100.4.1.zip",
+                    "shasum": "87ed4622c3318c1d61f07ccc38c0de14a935d3d6"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-bundle": "101.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle-graph-ql",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-graph-ql-100.4.2.zip",
+                    "shasum": "cc8eae6c0b74b2cdd77e2c274ac8d8daa218f698"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-bundle": "101.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle-graph-ql",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-graph-ql-100.4.3.zip",
+                    "shasum": "a5cbcdc0e6202fcee9aaa69200b5e8ad90d863a2"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-bundle": "101.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle-graph-ql",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-graph-ql-100.4.4.zip",
+                    "shasum": "2b6cd9b529a0859d629d95578bf70be1a8c3830c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-bundle": "101.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-bundle-graph-ql",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-bundle-graph-ql-100.4.5.zip",
+                    "shasum": "acc31aabbd621d50d01c4d82558ebb0190397c02"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-bundle": "101.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-graph-ql": "100.4.*",
+                    "magento/module-graph-ql": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-quote-graph-ql": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-graph-ql": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\BundleGraphQl\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

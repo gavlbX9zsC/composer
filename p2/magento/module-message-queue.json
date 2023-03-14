@@ -1,0 +1,215 @@
+{
+    "packages": {
+        "magento/module-message-queue": [
+            {
+                "name": "magento/module-message-queue",
+                "version": "100.3.7",
+                "version_normalized": "100.3.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-message-queue-100.3.7.zip",
+                    "shasum": "3025fff628f59d26045c13f7a9dd0101afdbd144"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/magento-composer-installer": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MessageQueue\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-message-queue",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-message-queue-100.4.0.zip",
+                    "shasum": "0931208deced7782fcc121e89485ae4d4ad9d503"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/magento-composer-installer": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MessageQueue\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-message-queue",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-message-queue-100.4.1.zip",
+                    "shasum": "35dbd57d863bc49ad4287eeb00457114ba18db63"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/magento-composer-installer": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MessageQueue\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-message-queue",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-message-queue-100.4.2.zip",
+                    "shasum": "9b101a84e72f7ffef249e9079e0302297b5ce290"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/magento-composer-installer": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MessageQueue\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-message-queue",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-message-queue-100.4.3.zip",
+                    "shasum": "faff27e709914136096100ef4a605f32e359ade5"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/magento-composer-installer": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MessageQueue\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-message-queue",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-message-queue-100.4.4.zip",
+                    "shasum": "b3aa635c8250e89510a3017f37a7e0173003c1ea"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/magento-composer-installer": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MessageQueue\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-message-queue",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-message-queue-100.4.5.zip",
+                    "shasum": "ad359b2e71da1f696432d25dbdbfaf6a4c9aa413"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/framework-message-queue": "100.4.*",
+                    "magento/magento-composer-installer": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MessageQueue\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

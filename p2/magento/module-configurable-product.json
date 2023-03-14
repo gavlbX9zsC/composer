@@ -1,0 +1,486 @@
+{
+    "packages": {
+        "magento/module-configurable-product": [
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.3.7-p2",
+                "version_normalized": "100.3.7.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.3.7-p2.zip",
+                    "shasum": "3be036f4579c93cfba94413d26272cc0bb9f81de"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-backend": "101.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-inventory": "100.3.*",
+                    "magento/module-checkout": "100.3.*",
+                    "magento/module-customer": "102.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-media-storage": "100.3.*",
+                    "magento/module-quote": "101.1.*",
+                    "magento/module-store": "101.0.*",
+                    "magento/module-ui": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-msrp": "100.3.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.3.*",
+                    "magento/module-product-video": "100.3.*",
+                    "magento/module-sales": "102.0.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "magento/module-tax": "100.3.*",
+                    "magento/module-webapi": "100.3.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.0.zip",
+                    "shasum": "ad0b890212315c199ea815e7de138f9e7f947cb0"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.1.zip",
+                    "shasum": "b6f0aa0ecdbd6633776561c959ffce4f528a57dc"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.2.zip",
+                    "shasum": "7d5d121b0cda1faa253e3556ed58ea1cde26508d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.2-p2",
+                "version_normalized": "100.4.2.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.2-p2.zip",
+                    "shasum": "e16d7b4b4287c8aaf33890f8c31fbf2b97d4a41a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.3.zip",
+                    "shasum": "65f074e26ee125ff915c7f551cb61b0c4e9cda2c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.4.zip",
+                    "shasum": "35515808aa6f55a84532bd8ffdf94fa9cd4437f8"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.4-p2",
+                "version_normalized": "100.4.4.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.4-p2.zip",
+                    "shasum": "735ac6721b7703eb1abb2f08b96c118579ed64c1"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.5",
+                "version_normalized": "100.4.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.5.zip",
+                    "shasum": "84be7e05bb020aeb66470bb9cdeb4bcca6089765"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-configurable-product",
+                "version": "100.4.5-p1",
+                "version_normalized": "100.4.5.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-configurable-product-100.4.5-p1.zip",
+                    "shasum": "f5af0d8afdcdd7a0432d6180678d48a3b5c5ba87"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-inventory": "100.4.*",
+                    "magento/module-checkout": "100.4.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-media-storage": "100.4.*",
+                    "magento/module-quote": "101.2.*",
+                    "magento/module-store": "101.1.*",
+                    "magento/module-ui": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-configurable-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-msrp": "100.4.*",
+                    "magento/module-product-links-sample-data": "Sample Data version: 100.4.*",
+                    "magento/module-product-video": "100.4.*",
+                    "magento/module-sales": "103.0.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "magento/module-tax": "100.4.*",
+                    "magento/module-webapi": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\ConfigurableProduct\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

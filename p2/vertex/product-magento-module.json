@@ -1,0 +1,129 @@
+{
+    "packages": {
+        "vertex/product-magento-module": [
+            {
+                "name": "vertex/product-magento-module",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-product-magento-module-4.0.0.0.zip",
+                    "shasum": "6048ffc711bb6635fc0288345b87724225345481"
+                },
+                "require": {
+                    "vertex/module-address-validation": "2.0.0",
+                    "vertex/module-tax": "4.0.0"
+                },
+                "type": "metapackage",
+                "archive": {
+                    "exclude": [
+                        "*",
+                        "!/composer.json"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mediotype",
+                        "email": "diveinto@mediotype.com",
+                        "homepage": "http://www.mediotype.com/",
+                        "role": "Development Company"
+                    }
+                ],
+                "description": "Vertex Tax Links for Magento 2",
+                "homepage": "http://go.vertexsmb.com/magento_cbe",
+                "keywords": [
+                    "tax",
+                    "vertex"
+                ],
+                "support": {
+                    "forum": "https://www.vertexinc.com/support"
+                }
+            },
+            {
+                "name": "vertex/product-magento-module",
+                "version": "4.1.0",
+                "version_normalized": "4.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-product-magento-module-4.1.0.0.zip",
+                    "shasum": "ef350f455be0e3e6784e86987e89b78be984f056"
+                },
+                "require": {
+                    "vertex/module-address-validation": "2.1.0",
+                    "vertex/module-tax": "4.1.0"
+                },
+                "type": "metapackage",
+                "archive": {
+                    "exclude": [
+                        "*",
+                        "!/composer.json"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mediotype",
+                        "email": "diveinto@mediotype.com",
+                        "homepage": "http://www.mediotype.com/",
+                        "role": "Development Company"
+                    }
+                ],
+                "description": "Vertex Tax Links for Magento 2",
+                "homepage": "http://go.vertexsmb.com/magento_cbe",
+                "keywords": [
+                    "tax",
+                    "vertex"
+                ],
+                "support": {
+                    "forum": "https://www.vertexinc.com/support"
+                }
+            },
+            {
+                "name": "vertex/product-magento-module",
+                "version": "4.2.0",
+                "version_normalized": "4.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertex-product-magento-module-4.2.0.0.zip",
+                    "shasum": "950fffb72ac2654457e6aff83b973f33c5728c41"
+                },
+                "require": {
+                    "vertex/module-address-validation": "2.1.1",
+                    "vertex/module-tax": "4.2.0"
+                },
+                "type": "metapackage",
+                "archive": {
+                    "exclude": [
+                        "*",
+                        "!/composer.json"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "authors": [
+                    {
+                        "name": "Mediotype",
+                        "email": "diveinto@mediotype.com",
+                        "homepage": "http://www.mediotype.com/",
+                        "role": "Development Company"
+                    }
+                ],
+                "description": "Vertex Tax Links for Magento 2",
+                "homepage": "http://go.vertexsmb.com/magento_cbe",
+                "keywords": [
+                    "tax",
+                    "vertex"
+                ],
+                "support": {
+                    "forum": "https://www.vertexinc.com/support"
+                }
+            }
+        ]
+    }
+}

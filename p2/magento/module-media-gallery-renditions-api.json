@@ -1,0 +1,90 @@
+{
+    "packages": {
+        "magento/module-media-gallery-renditions-api": [
+            {
+                "name": "magento/module-media-gallery-renditions-api",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-renditions-api-100.4.0.zip",
+                    "shasum": "1b5b45a9db8f2585c1fbbe54ab1df48071264ce3"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryRenditionsApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module that is responsible for the API implementation of Media Gallery Renditions."
+            },
+            {
+                "name": "magento/module-media-gallery-renditions-api",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-renditions-api-100.4.1.zip",
+                    "shasum": "2b100b56e9bf9e0a508758e7ae138bd18099390d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryRenditionsApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module that is responsible for the API implementation of Media Gallery Renditions."
+            },
+            {
+                "name": "magento/module-media-gallery-renditions-api",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-media-gallery-renditions-api-100.4.2.zip",
+                    "shasum": "0b78d98bda55a07beaa90f128fd16728d9e940a4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\MediaGalleryRenditionsApi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module that is responsible for the API implementation of Media Gallery Renditions."
+            }
+        ]
+    }
+}

@@ -1,0 +1,249 @@
+{
+    "packages": {
+        "magento/module-two-factor-auth": [
+            {
+                "name": "magento/module-two-factor-auth",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-two-factor-auth-1.0.0.zip",
+                    "shasum": "42063de9f0babbd817b74583fe9241d768246d2e"
+                },
+                "require": {
+                    "2tvenom/cborencode": "^1.0",
+                    "christian-riesen/base32": "^1.3",
+                    "donatj/phpuseragentparser": "~0.7",
+                    "endroid/qr-code": "^3.7",
+                    "magento/framework": "*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-integration": "*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0",
+                    "phpseclib/phpseclib": "2.0.*",
+                    "spomky-labs/otphp": "^10.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TwoFactorAuth\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Two Factor Authentication module for Magento2"
+            },
+            {
+                "name": "magento/module-two-factor-auth",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-two-factor-auth-1.1.0.zip",
+                    "shasum": "e01594b4123cfa6659023eef13a1028406a86308"
+                },
+                "require": {
+                    "2tvenom/cborencode": "^1.0",
+                    "christian-riesen/base32": "^1.3",
+                    "donatj/phpuseragentparser": "~0.7",
+                    "endroid/qr-code": "^3.7",
+                    "magento/framework": "*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-integration": "*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0",
+                    "phpseclib/phpseclib": "2.0.*",
+                    "spomky-labs/otphp": "^10.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TwoFactorAuth\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Two Factor Authentication module for Magento2"
+            },
+            {
+                "name": "magento/module-two-factor-auth",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-two-factor-auth-1.1.1.zip",
+                    "shasum": "c195fc9a1704971cc200c3e2faffff8bc48dad23"
+                },
+                "require": {
+                    "2tvenom/cborencode": "^1.0",
+                    "christian-riesen/base32": "^1.3",
+                    "donatj/phpuseragentparser": "~0.7",
+                    "endroid/qr-code": "^3.7",
+                    "magento/framework": "*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-integration": "*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0",
+                    "phpseclib/phpseclib": "2.0.*",
+                    "spomky-labs/otphp": "^10.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TwoFactorAuth\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Two Factor Authentication module for Magento2"
+            },
+            {
+                "name": "magento/module-two-factor-auth",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-two-factor-auth-1.1.2.zip",
+                    "shasum": "8fb2a6fad6d0fd255c1f422ae15dbe9d838bd107"
+                },
+                "require": {
+                    "2tvenom/cborencode": "^1.0",
+                    "christian-riesen/base32": "^1.3",
+                    "donatj/phpuseragentparser": "~0.7",
+                    "endroid/qr-code": "^3.7",
+                    "magento/framework": "*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-integration": "*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0",
+                    "phpseclib/phpseclib": "2.0.*",
+                    "spomky-labs/otphp": "^10.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TwoFactorAuth\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Two Factor Authentication module for Magento2"
+            },
+            {
+                "name": "magento/module-two-factor-auth",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-two-factor-auth-1.1.3.zip",
+                    "shasum": "3f1a706d3ed39afa9ea557b802df4dcc6c1c8687"
+                },
+                "require": {
+                    "2tvenom/cborencode": "^1.0",
+                    "christian-riesen/base32": "^1.3",
+                    "endroid/qr-code": "^4.3.5",
+                    "magento/framework": "*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-integration": "*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.4.0||~8.1.0",
+                    "spomky-labs/otphp": "^10.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TwoFactorAuth\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Two Factor Authentication module for Magento2"
+            },
+            {
+                "name": "magento/module-two-factor-auth",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-two-factor-auth-1.1.4.zip",
+                    "shasum": "a9832bb1b2e1eefaf251e3d526e7dd724b814931"
+                },
+                "require": {
+                    "2tvenom/cborencode": "^1.0",
+                    "christian-riesen/base32": "^1.3",
+                    "endroid/qr-code": "^4.3.5",
+                    "magento/framework": "*",
+                    "magento/magento-composer-installer": "*",
+                    "magento/module-admin-adobe-ims": "*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-integration": "*",
+                    "magento/module-store": "*",
+                    "magento/module-ui": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.4.0||~8.1.0",
+                    "spomky-labs/otphp": "^10.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\TwoFactorAuth\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Two Factor Authentication module for Magento2"
+            }
+        ]
+    }
+}

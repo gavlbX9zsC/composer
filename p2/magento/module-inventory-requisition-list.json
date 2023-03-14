@@ -1,0 +1,303 @@
+{
+    "packages": {
+        "magento/module-inventory-requisition-list": [
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.0.1.zip",
+                    "shasum": "71cba9110b8b7f591d58ab465ff5bcd236e5c0ab"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.0.2.zip",
+                    "shasum": "0aabc03ce29774484ac20e57b3e1e8fba587e026"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.0.*",
+                    "magento/module-inventory-sales-api": "1.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.1.0.zip",
+                    "shasum": "8a3146f533396a045c33da4d7608188ef9a5450a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.1.*",
+                    "magento/module-inventory-sales-api": "1.1.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.2.0.zip",
+                    "shasum": "3206177f551b4add31ee08267649d8ad0079f6b6"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.2.1.zip",
+                    "shasum": "5597bae1bd87df8bb973a032de990572ef5137eb"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.2.1-p1",
+                "version_normalized": "1.2.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.2.1-p1.zip",
+                    "shasum": "c1765529adb82deddd859ae4cc993d7ff0574f89"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.2.0-p1",
+                    "magento/module-inventory-sales-api": "1.2.0-p1",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.2.1-p2",
+                "version_normalized": "1.2.1.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.2.1-p2.zip",
+                    "shasum": "ca0551ef692810622a524c085935a949dbda9495"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.2.2.zip",
+                    "shasum": "59a89964e0f593dd3f8456ca104e57ade5fca4cf"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-requisition-list",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-requisition-list-1.2.3.zip",
+                    "shasum": "8f7085aad2143c2d0480f8af4657dfa100f047d3"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-catalog": "*",
+                    "magento/module-inventory-configuration-api": "1.2.*",
+                    "magento/module-inventory-sales-api": "1.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-requisition-list": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryRequisitionList\\": ""
+                    }
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

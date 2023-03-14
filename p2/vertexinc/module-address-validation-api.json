@@ -1,0 +1,58 @@
+{
+    "packages": {
+        "vertexinc/module-address-validation-api": [
+            {
+                "name": "vertexinc/module-address-validation-api",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/vertexinc-module-address-validation-api-1.0.1.0.zip",
+                    "shasum": "89c8e09c9a4f9861b64790be969f963afd5e62fa"
+                },
+                "require": {
+                    "magento/framework": "^100|^101|^102|^103",
+                    "magento/module-store": "^100|^101",
+                    "php": "^7.1",
+                    "vertexinc/sdk": "^1"
+                },
+                "replace": {
+                    "vertex/module-address-validation-api": "self.version"
+                },
+                "require-dev": {
+                    "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2",
+                    "mediotype/code-standard": "^1.0",
+                    "roave/security-advisories": "dev-master"
+                },
+                "suggest": {
+                    "magento/module-webapi": "^100"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Vertex\\AddressValidationApi\\": ""
+                    }
+                },
+                "archive": {
+                    "exclude": [
+                        ".github/",
+                        "composer.lock",
+                        "phpcs.xml",
+                        "vendor/",
+                        ".git/",
+                        ".gitignore",
+                        "phpcs-new.xml",
+                        "phpcs-old.xml"
+                    ]
+                },
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Vertex Address Cleansing module for Magento 2 API"
+            }
+        ]
+    }
+}

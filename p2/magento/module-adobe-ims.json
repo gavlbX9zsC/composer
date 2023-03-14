@@ -1,0 +1,303 @@
+{
+    "packages": {
+        "magento/module-adobe-ims": [
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-ims-1.0.0.zip",
+                    "shasum": "78ba25a1efa25acbe36946aceafb94399174334e"
+                },
+                "require": {
+                    "magento/framework": "~102.0.4",
+                    "magento/module-adobe-ims-api": "1.*.*",
+                    "magento/module-authorization": "~100.3.4",
+                    "magento/module-backend": "~101.0.4",
+                    "magento/module-config": "~101.1.4",
+                    "magento/module-user": "~101.1.4",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            },
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-ims-1.0.1.zip",
+                    "shasum": "31ef1df8db5b0470e002f2fed76f0cd5f2b73b08"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "1.0.*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.1.3||~7.2.0||~7.3.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            },
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-ims-1.0.2.zip",
+                    "shasum": "18d4041ff7c6848ed81e09b3e0b05c16ee6851d7"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "1.0.*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            },
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "1.0.2-p1",
+                "version_normalized": "1.0.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/magento-module-adobe-ims-1.0.2-p1.zip",
+                    "shasum": "0c385e040e90299980385de2d7a899f120f5265b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "1.0.2-p1",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            },
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-ims-1.1.0.zip",
+                    "shasum": "6694cd05f33e83f787fb80e6e826648aa6ca0199"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "2.0.*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            },
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-ims-2.1.0.zip",
+                    "shasum": "3a0612462ab3a7a52c98ed66c16dc72f61d34fec"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "2.1.*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            },
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/additional/magento-module-adobe-ims-2.1.2.0.zip",
+                    "shasum": "85bf00e237b0f47341338a199fa3828a463de4cd"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "2.1.*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            },
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-ims-2.1.3.zip",
+                    "shasum": "97163b6374564d31bb55320a9d14cad45e87aee6"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-adobe-ims-api": "2.1.*",
+                    "magento/module-authorization": "*",
+                    "magento/module-backend": "*",
+                    "magento/module-config": "*",
+                    "magento/module-user": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            },
+            {
+                "name": "magento/module-adobe-ims",
+                "version": "2.1.4",
+                "version_normalized": "2.1.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-adobe-ims-2.1.4.zip",
+                    "shasum": "b7bf73815017c993fda1e6cac11a00bab8010030"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-adobe-ims-api": "2.1.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-config": "101.2.*",
+                    "magento/module-user": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\AdobeIms\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "Magento module responsible for authentication to Adobe services"
+            }
+        ]
+    }
+}

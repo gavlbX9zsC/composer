@@ -1,0 +1,327 @@
+{
+    "packages": {
+        "magento/module-login-as-customer-assistance": [
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.0.zip",
+                    "shasum": "d8ef085df1150eb787fcec404a1c8ad26176f3da"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.0-p1",
+                "version_normalized": "100.4.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.0-p1.zip",
+                    "shasum": "78596184eba4ec74d1075a8f7ede1eec3ece88a4"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.1.zip",
+                    "shasum": "7d48d6961fefadfbe7088997fe60637a2eab961c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.1-p1",
+                "version_normalized": "100.4.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.1-p1.zip",
+                    "shasum": "4d6a0f384271a1bde997c0e3f52ba55c70e4045d"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.1-p2",
+                "version_normalized": "100.4.1.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.1-p2.zip",
+                    "shasum": "be3c96380dbcc3738ed5df97a4b459c9c52525e1"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.2.zip",
+                    "shasum": "79201bda1542f916a28926b46a7702e5dda7af9f"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.2-p1",
+                "version_normalized": "100.4.2.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.2-p1.zip",
+                    "shasum": "8cfd07f90ebaf16bc1720d520a98d900108cf517"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.3.zip",
+                    "shasum": "348e0b57bde1fe023c280b99eca8020186e904de"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            },
+            {
+                "name": "magento/module-login-as-customer-assistance",
+                "version": "100.4.4",
+                "version_normalized": "100.4.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-login-as-customer-assistance-100.4.4.zip",
+                    "shasum": "2d82372302124605da94f9b20b8708b364da8f23"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-authorization": "100.4.*",
+                    "magento/module-backend": "102.0.*",
+                    "magento/module-customer": "103.0.*",
+                    "magento/module-login-as-customer": "100.4.*",
+                    "magento/module-login-as-customer-api": "100.4.*",
+                    "magento/module-store": "101.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-login-as-customer-admin-ui": "100.4.*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\LoginAsCustomerAssistance\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ]
+            }
+        ]
+    }
+}

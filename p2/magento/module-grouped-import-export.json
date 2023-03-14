@@ -1,0 +1,171 @@
+{
+    "packages": {
+        "magento/module-grouped-import-export": [
+            {
+                "name": "magento/module-grouped-import-export",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-grouped-import-export-100.3.5.zip",
+                    "shasum": "203e8c90aa00a14fab80c6129d290211a63faad5"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog": "103.0.*",
+                    "magento/module-catalog-import-export": "101.0.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-grouped-product": "100.3.*",
+                    "magento/module-import-export": "100.3.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-import-export",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-grouped-import-export-100.4.0.zip",
+                    "shasum": "5a3c3f472ee2f80c97b91570ce1298b611f08361"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-import-export": "101.1.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-grouped-product": "100.4.*",
+                    "magento/module-import-export": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-import-export",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-grouped-import-export-100.4.1.zip",
+                    "shasum": "fec13fd8c65869638a3bd5b6f3588620128eeb81"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-import-export": "101.1.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-grouped-product": "100.4.*",
+                    "magento/module-import-export": "101.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-import-export",
+                "version": "100.4.2",
+                "version_normalized": "100.4.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-grouped-import-export-100.4.2.zip",
+                    "shasum": "3d3172c90847ff8d16536d37ee343d91edb12114"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-import-export": "101.1.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-grouped-product": "100.4.*",
+                    "magento/module-import-export": "101.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-grouped-import-export",
+                "version": "100.4.3",
+                "version_normalized": "100.4.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-grouped-import-export-100.4.3.zip",
+                    "shasum": "1e1e598024cfe36fc3a2a772adcdf41cd4b69661"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog": "104.0.*",
+                    "magento/module-catalog-import-export": "101.1.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-grouped-product": "100.4.*",
+                    "magento/module-import-export": "101.0.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\GroupedImportExport\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

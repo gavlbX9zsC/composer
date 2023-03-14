@@ -1,0 +1,99 @@
+{
+    "packages": {
+        "magento/module-sales-rule-sample-data": [
+            {
+                "name": "magento/module-sales-rule-sample-data",
+                "version": "100.3.5",
+                "version_normalized": "100.3.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-sales-rule-sample-data-100.3.5.zip",
+                    "shasum": "ee4be25f9767b57ea5cfb9e17df6cc59f6b4d03b"
+                },
+                "require": {
+                    "magento/framework": "102.0.*",
+                    "magento/module-catalog-rule-sample-data": "100.3.*",
+                    "magento/module-eav": "102.0.*",
+                    "magento/module-sales-rule": "101.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesRuleSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-rule-sample-data",
+                "version": "100.4.0",
+                "version_normalized": "100.4.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-sales-rule-sample-data-100.4.0.zip",
+                    "shasum": "d81ee69b1ea48079f421709c5bc54da8bfd7940c"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog-rule-sample-data": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesRuleSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-sales-rule-sample-data",
+                "version": "100.4.1",
+                "version_normalized": "100.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-sales-rule-sample-data-100.4.1.zip",
+                    "shasum": "300a5824ed899b8f67d2a879ebc1e3226af9486a"
+                },
+                "require": {
+                    "magento/framework": "103.0.*",
+                    "magento/module-catalog-rule-sample-data": "100.4.*",
+                    "magento/module-eav": "102.1.*",
+                    "magento/module-sales-rule": "101.2.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\SalesRuleSampleData\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

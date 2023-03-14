@@ -1,0 +1,166 @@
+{
+    "packages": {
+        "magento/module-inventory-in-store-pickup-shipping-admin-ui": [
+            {
+                "name": "magento/module-inventory-in-store-pickup-shipping-admin-ui",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-shipping-admin-ui-1.0.0.zip",
+                    "shasum": "7792df7efa41151418dc4d39f19fa34e86ae1337"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.0.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-shipping": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-shipping-admin-ui",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-shipping-admin-ui-1.1.0.zip",
+                    "shasum": "ae307fcc6cb24f32df2792b9dd72dde0a6d13424"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-shipping": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-shipping-admin-ui",
+                "version": "1.1.0-p1",
+                "version_normalized": "1.1.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-shipping-admin-ui-1.1.0-p1.zip",
+                    "shasum": "f33e44adeb6041c0a986cab8e11a9f124990307a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.0-p1",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-shipping": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-shipping-admin-ui",
+                "version": "1.1.0-p2",
+                "version_normalized": "1.1.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-shipping-admin-ui-1.1.0-p2.zip",
+                    "shasum": "da46c1c7b6f511d473e0f680f599f0eaa20da51c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "suggest": {
+                    "magento/module-shipping": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-shipping-admin-ui",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-shipping-admin-ui-1.1.1.zip",
+                    "shasum": "9bd81446bf8f80aa22dfbd9764d3fbda129fd11c"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "suggest": {
+                    "magento/module-shipping": "*"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupShippingAdminUi\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}

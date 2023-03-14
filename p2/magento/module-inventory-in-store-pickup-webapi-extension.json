@@ -1,0 +1,156 @@
+{
+    "packages": {
+        "magento/module-inventory-in-store-pickup-webapi-extension": [
+            {
+                "name": "magento/module-inventory-in-store-pickup-webapi-extension",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-webapi-extension-1.0.0.zip",
+                    "shasum": "9e173ba246b30736fda8df53018ab4faa09d74a8"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-webapi": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupWebapiExtension\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": true
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-webapi-extension",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-webapi-extension-1.1.0.zip",
+                    "shasum": "1d4cf0983279b956a3126cb9c6c6a4c5a63d5fbd"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-webapi": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupWebapiExtension\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": true
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-webapi-extension",
+                "version": "1.1.0-p1",
+                "version_normalized": "1.1.0.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-webapi-extension-1.1.0-p1.zip",
+                    "shasum": "eaabe9130ee66ca7425422570aa47ac6605cc43d"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-webapi": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupWebapiExtension\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": true
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-webapi-extension",
+                "version": "1.1.0-p2",
+                "version_normalized": "1.1.0.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-webapi-extension-1.1.0-p2.zip",
+                    "shasum": "54520c3ef65a785ed6897b0f83461d016d1543b9"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-webapi": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupWebapiExtension\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": true
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-webapi-extension",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-webapi-extension-1.1.1.zip",
+                    "shasum": "db57ef0dd24de7ea700bd6ff1f5bfa18b0a8204a"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-webapi": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupWebapiExtension\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A",
+                "abandoned": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,270 @@
+{
+    "packages": {
+        "magento/module-inventory-in-store-pickup-frontend": [
+            {
+                "name": "magento/module-inventory-in-store-pickup-frontend",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-frontend-1.0.0.zip",
+                    "shasum": "3eeadb465488514d0dc4eabee9e91990769171fe"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-inventory-in-store-pickup-api": "1.0.*",
+                    "magento/module-inventory-in-store-pickup-sales-api": "1.0.*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupFrontend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-frontend",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-frontend-1.0.1.zip",
+                    "shasum": "d93f9619772bc86ac9d9e409303b659c507d837b"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-inventory-in-store-pickup-api": "1.0.*",
+                    "magento/module-inventory-in-store-pickup-sales-api": "1.0.*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.0.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupFrontend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-frontend",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-frontend-1.1.0.zip",
+                    "shasum": "6a2a14a786ada9ceb36839fc17578337a9975851"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-inventory-in-store-pickup-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-sales-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupFrontend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-frontend",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-frontend-1.1.1.zip",
+                    "shasum": "d5222ef39eda2b058bf2017e93e8d3e6b64f7c54"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-inventory-in-store-pickup-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-sales-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupFrontend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-frontend",
+                "version": "1.1.1-p1",
+                "version_normalized": "1.1.1.0-patch1",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-frontend-1.1.1-p1.zip",
+                    "shasum": "b2aac7871609d328be4250a14ca16da03a824e28"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-inventory-in-store-pickup-api": "1.1.0-p1",
+                    "magento/module-inventory-in-store-pickup-sales-api": "1.1.0-p1",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.0-p1",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupFrontend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-frontend",
+                "version": "1.1.1-p2",
+                "version_normalized": "1.1.1.0-patch2",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-frontend-1.1.1-p2.zip",
+                    "shasum": "05b7072492cc83c48011e7f566c0e62920f00f85"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-inventory-in-store-pickup-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-sales-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.3.0||~7.4.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupFrontend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-frontend",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-frontend-1.1.2.zip",
+                    "shasum": "809a16042e642c714eaf5b38852922fd4926b2e5"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-inventory-in-store-pickup-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-sales-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupFrontend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            },
+            {
+                "name": "magento/module-inventory-in-store-pickup-frontend",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://mirror.mage-os.org/packages/magento/module-inventory-in-store-pickup-frontend-1.1.3.zip",
+                    "shasum": "57bc36e0ba3d371376d9b2c9f64066039f46f03f"
+                },
+                "require": {
+                    "magento/framework": "*",
+                    "magento/module-checkout": "*",
+                    "magento/module-inventory-in-store-pickup-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-sales-api": "1.1.*",
+                    "magento/module-inventory-in-store-pickup-shipping-api": "1.1.*",
+                    "magento/module-store": "*",
+                    "php": "~7.4.0||~8.1.0"
+                },
+                "type": "magento2-module",
+                "autoload": {
+                    "files": [
+                        "registration.php"
+                    ],
+                    "psr-4": {
+                        "Magento\\InventoryInStorePickupFrontend\\": ""
+                    }
+                },
+                "license": [
+                    "OSL-3.0",
+                    "AFL-3.0"
+                ],
+                "description": "N/A"
+            }
+        ]
+    }
+}
