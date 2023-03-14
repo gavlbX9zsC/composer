@@ -10,14 +10,6 @@
     {
       "type": "vcs",
       "url": "https://github.com/gavlbX9zsC/qeebex-magento-modules-list.git"
-    },
-    {
-      "type": "composer",
-      "url": "https://mirror.mage-os.org/"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/aligent/magento-async-events.git"
     }
   ],
   "require-all": true,
