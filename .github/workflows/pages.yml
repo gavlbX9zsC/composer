@@ -16,7 +16,7 @@ jobs:
     name: Build Satis and Deploy to GH Pages
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     - name: Cache Composer packages
       id: composer-cache
